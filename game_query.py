@@ -9,7 +9,7 @@ mongo_url = "mongodb://localhost:27017/"
 client = pymongo.MongoClient(mongo_url)
 
 # Access the premier_league_db database
-db = client.premier_league_db_2
+db = client.premier_league_db
 
 # Function to find all matches played by a specific team
 def find_matches_by_team(team_name):

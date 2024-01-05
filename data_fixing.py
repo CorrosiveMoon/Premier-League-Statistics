@@ -7,7 +7,7 @@ with open('premier_league_filtered_data.json', 'r') as league_data_file:
 
 # Connect to the MongoDB instance (assuming it's running on localhost)
 client = pymongo.MongoClient("mongodb://localhost:27017/")
-db = client['premier_league_db_2']
+db = client['premier_league_db']
 
 # Create a collection for the league data
 league_data_collection = db['league_data']

@@ -33,7 +33,7 @@ if response.status_code == 200:
             'homeTeam': match['homeTeam'],
             'awayTeam': match['awayTeam'],
             'score': match['score'],
-            'referee': referee_name,  # Get the referee's name
+            'referee': referee_name, 
         }
         filtered_data.append(match_info)
 
@@ -45,7 +45,6 @@ if response.status_code == 200:
     else:
         print("Premier League winner information not found for the specified season.")
 
-    # Save the filtered data into a JSON file named 'test.json'
     file_path = "premier_league_filtered_data.json"
     with open(file_path, "w") as f:
         json.dump(filtered_data, f, indent=4)
