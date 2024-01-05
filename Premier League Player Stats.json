@@ -1,0 +1,540 @@
+{"Rank":1,"PLAYER":"Jamie Vardy","TEAM":"Leicester City","GP":35,"GS":34,"MIN":3034,"G":23,"ASST":5,"SHOTS":71,"SOG":43}
+{"Rank":2,"PLAYER":"Danny Ings","TEAM":"Southampton","GP":38,"GS":32,"MIN":2812,"G":22,"ASST":2,"SHOTS":66,"SOG":38}
+{"Rank":3,"PLAYER":"Pierre-Emerick Aubameyang","TEAM":"Arsenal","GP":36,"GS":35,"MIN":3138,"G":22,"ASST":3,"SHOTS":70,"SOG":42}
+{"Rank":4,"PLAYER":"Raheem Shaquille Sterling","TEAM":"Manchester City","GP":33,"GS":30,"MIN":2660,"G":20,"ASST":1,"SHOTS":68,"SOG":38}
+{"Rank":5,"PLAYER":"Mohamed Salah Ghaly","TEAM":"Liverpool","GP":34,"GS":33,"MIN":2884,"G":19,"ASST":10,"SHOTS":95,"SOG":59}
+{"Rank":6,"PLAYER":"Sadio Man\u00e9","TEAM":"Liverpool","GP":35,"GS":31,"MIN":2753,"G":18,"ASST":7,"SHOTS":66,"SOG":36}
+{"Rank":7,"PLAYER":"Harry Kane","TEAM":"Tottenham Hotspur","GP":29,"GS":29,"MIN":2589,"G":18,"ASST":2,"SHOTS":62,"SOG":37}
+{"Rank":8,"PLAYER":"Ra\u00fal Alonso Jim\u00e9nez Rodr\u00edguez","TEAM":"Wolverhampton Wanderers","GP":38,"GS":37,"MIN":3244,"G":17,"ASST":6,"SHOTS":89,"SOG":44}
+{"Rank":9,"PLAYER":"Marcus Rashford","TEAM":"Manchester United","GP":31,"GS":31,"MIN":2653,"G":17,"ASST":7,"SHOTS":77,"SOG":44}
+{"Rank":10,"PLAYER":"Anthony Martial","TEAM":"Manchester United","GP":32,"GS":31,"MIN":2638,"G":17,"ASST":6,"SHOTS":59,"SOG":40}
+{"Rank":11,"PLAYER":"Sergio Leonel Ag\u00fcero del Castillo","TEAM":"Manchester City","GP":24,"GS":18,"MIN":1456,"G":16,"ASST":3,"SHOTS":54,"SOG":28}
+{"Rank":12,"PLAYER":"Tammy Bakumo-Abraham","TEAM":"Chelsea","GP":34,"GS":25,"MIN":2221,"G":15,"ASST":3,"SHOTS":74,"SOG":40}
+{"Rank":13,"PLAYER":"Gabriel Fernando de Jesus","TEAM":"Manchester City","GP":34,"GS":21,"MIN":2027,"G":14,"ASST":7,"SHOTS":81,"SOG":48}
+{"Rank":14,"PLAYER":"Chris Wood","TEAM":"Burnley","GP":32,"GS":29,"MIN":2444,"G":14,"ASST":1,"SHOTS":57,"SOG":31}
+{"Rank":15,"PLAYER":"Kevin De Bruyne","TEAM":"Manchester City","GP":35,"GS":32,"MIN":2798,"G":13,"ASST":20,"SHOTS":70,"SOG":31}
+{"Rank":16,"PLAYER":"Dominic Calvert-Lewin","TEAM":"Everton","GP":36,"GS":30,"MIN":2629,"G":13,"ASST":1,"SHOTS":70,"SOG":38}
+{"Rank":17,"PLAYER":"Richarlison de Andrade","TEAM":"Everton","GP":36,"GS":36,"MIN":3081,"G":13,"ASST":3,"SHOTS":66,"SOG":32}
+{"Rank":18,"PLAYER":"Teemu Pukki","TEAM":"Norwich City","GP":36,"GS":33,"MIN":2892,"G":11,"ASST":3,"SHOTS":56,"SOG":35}
+{"Rank":19,"PLAYER":"Riyad Mahrez","TEAM":"Manchester City","GP":33,"GS":21,"MIN":1940,"G":11,"ASST":9,"SHOTS":51,"SOG":32}
+{"Rank":20,"PLAYER":"Heung-Min Son","TEAM":"Tottenham Hotspur","GP":30,"GS":28,"MIN":2485,"G":11,"ASST":10,"SHOTS":62,"SOG":38}
+{"Rank":21,"PLAYER":"Michail Antonio","TEAM":"West Ham United","GP":24,"GS":19,"MIN":1770,"G":10,"ASST":3,"SHOTS":54,"SOG":31}
+{"Rank":22,"PLAYER":"Neal Maupay","TEAM":"Brighton and Hove Albion","GP":37,"GS":30,"MIN":2768,"G":10,"ASST":3,"SHOTS":65,"SOG":38}
+{"Rank":23,"PLAYER":"Alexandre Lacazette","TEAM":"Arsenal","GP":30,"GS":22,"MIN":1877,"G":10,"ASST":4,"SHOTS":44,"SOG":26}
+{"Rank":24,"PLAYER":"Mason Greenwood","TEAM":"Manchester United","GP":31,"GS":12,"MIN":1312,"G":10,"ASST":1,"SHOTS":32,"SOG":20}
+{"Rank":25,"PLAYER":"Troy Deeney","TEAM":"Watford","GP":27,"GS":26,"MIN":2234,"G":10,"ASST":2,"SHOTS":32,"SOG":23}
+{"Rank":26,"PLAYER":"Roberto Firmino Barbosa de Oliveira","TEAM":"Liverpool","GP":38,"GS":34,"MIN":3001,"G":9,"ASST":8,"SHOTS":70,"SOG":39}
+{"Rank":27,"PLAYER":"Jordan Ayew","TEAM":"Crystal Palace","GP":37,"GS":37,"MIN":3160,"G":9,"ASST":2,"SHOTS":44,"SOG":24}
+{"Rank":28,"PLAYER":"Christian Pulisic","TEAM":"Chelsea","GP":25,"GS":19,"MIN":1726,"G":9,"ASST":4,"SHOTS":48,"SOG":26}
+{"Rank":29,"PLAYER":"Willian Borges Da Silva","TEAM":"Chelsea","GP":36,"GS":29,"MIN":2601,"G":9,"ASST":7,"SHOTS":48,"SOG":29}
+{"Rank":30,"PLAYER":"Callum Wilson","TEAM":"Bournemouth","GP":35,"GS":32,"MIN":2909,"G":8,"ASST":1,"SHOTS":45,"SOG":21}
+{"Rank":31,"PLAYER":"Jack Grealish","TEAM":"Aston Villa","GP":36,"GS":36,"MIN":3234,"G":8,"ASST":6,"SHOTS":55,"SOG":23}
+{"Rank":32,"PLAYER":"Ayoze P\u00e9rez","TEAM":"Leicester City","GP":33,"GS":26,"MIN":2019,"G":8,"ASST":4,"SHOTS":36,"SOG":22}
+{"Rank":33,"PLAYER":"Olivier Giroud","TEAM":"Chelsea","GP":18,"GS":12,"MIN":999,"G":8,"ASST":0,"SHOTS":35,"SOG":19}
+{"Rank":34,"PLAYER":"Jay Rodriguez","TEAM":"Burnley","GP":36,"GS":20,"MIN":2009,"G":8,"ASST":1,"SHOTS":55,"SOG":30}
+{"Rank":35,"PLAYER":"Bamidele Alli","TEAM":"Tottenham Hotspur","GP":25,"GS":21,"MIN":1851,"G":8,"ASST":4,"SHOTS":35,"SOG":19}
+{"Rank":36,"PLAYER":"Bruno Miguel Borges Fernandes","TEAM":"Manchester United","GP":14,"GS":14,"MIN":1192,"G":8,"ASST":7,"SHOTS":37,"SOG":18}
+{"Rank":37,"PLAYER":"S\u00e9bastien Haller","TEAM":"West Ham United","GP":32,"GS":24,"MIN":2263,"G":7,"ASST":1,"SHOTS":46,"SOG":27}
+{"Rank":38,"PLAYER":"Harry Wilson","TEAM":"Bournemouth","GP":31,"GS":20,"MIN":1651,"G":7,"ASST":0,"SHOTS":31,"SOG":20}
+{"Rank":39,"PLAYER":"Diogo Jos\u00e9 Teixeira da Silva","TEAM":"Wolverhampton Wanderers","GP":34,"GS":27,"MIN":2297,"G":7,"ASST":1,"SHOTS":46,"SOG":26}
+{"Rank":40,"PLAYER":"Mason Mount","TEAM":"Chelsea","GP":37,"GS":32,"MIN":2872,"G":7,"ASST":5,"SHOTS":50,"SOG":29}
+{"Rank":41,"PLAYER":"Todd Cantwell","TEAM":"Norwich City","GP":37,"GS":30,"MIN":2500,"G":6,"ASST":2,"SHOTS":29,"SOG":16}
+{"Rank":42,"PLAYER":"David Silva","TEAM":"Manchester City","GP":27,"GS":22,"MIN":1832,"G":6,"ASST":10,"SHOTS":32,"SOG":18}
+{"Rank":43,"PLAYER":"Bernardo Mota Veiga de Carvalho e Silva","TEAM":"Manchester City","GP":34,"GS":23,"MIN":2029,"G":6,"ASST":7,"SHOTS":29,"SOG":15}
+{"Rank":44,"PLAYER":"Ashley Barnes","TEAM":"Burnley","GP":19,"GS":17,"MIN":1361,"G":6,"ASST":0,"SHOTS":32,"SOG":12}
+{"Rank":45,"PLAYER":"Oliver McBurnie","TEAM":"Sheffield United","GP":36,"GS":24,"MIN":2116,"G":6,"ASST":0,"SHOTS":43,"SOG":25}
+{"Rank":46,"PLAYER":"Joshua King","TEAM":"Bournemouth","GP":26,"GS":24,"MIN":2019,"G":6,"ASST":4,"SHOTS":22,"SOG":13}
+{"Rank":47,"PLAYER":"Mahmoud Ahmed Ibrahim Hassan","TEAM":"Aston Villa","GP":34,"GS":20,"MIN":1950,"G":6,"ASST":1,"SHOTS":28,"SOG":17}
+{"Rank":48,"PLAYER":"Harvey Barnes","TEAM":"Leicester City","GP":36,"GS":24,"MIN":2090,"G":6,"ASST":8,"SHOTS":46,"SOG":28}
+{"Rank":49,"PLAYER":"James Maddison","TEAM":"Leicester City","GP":31,"GS":29,"MIN":2628,"G":6,"ASST":3,"SHOTS":44,"SOG":18}
+{"Rank":50,"PLAYER":"Jonjo Shelvey","TEAM":"Newcastle United","GP":26,"GS":25,"MIN":2123,"G":6,"ASST":2,"SHOTS":30,"SOG":14}
+{"Rank":51,"PLAYER":"Lys Mousset","TEAM":"Sheffield United","GP":30,"GS":11,"MIN":1232,"G":6,"ASST":4,"SHOTS":23,"SOG":9}
+{"Rank":52,"PLAYER":"Virgil van Dijk","TEAM":"Liverpool","GP":38,"GS":38,"MIN":3420,"G":5,"ASST":1,"SHOTS":27,"SOG":16}
+{"Rank":53,"PLAYER":"Phil Foden","TEAM":"Manchester City","GP":23,"GS":9,"MIN":892,"G":5,"ASST":2,"SHOTS":26,"SOG":15}
+{"Rank":54,"PLAYER":"Robert Snodgrass","TEAM":"West Ham United","GP":24,"GS":17,"MIN":1511,"G":5,"ASST":5,"SHOTS":16,"SOG":10}
+{"Rank":55,"PLAYER":"John Fleck","TEAM":"Sheffield United","GP":30,"GS":28,"MIN":2517,"G":5,"ASST":2,"SHOTS":19,"SOG":11}
+{"Rank":56,"PLAYER":"Leandro Trossard","TEAM":"Brighton and Hove Albion","GP":31,"GS":22,"MIN":2013,"G":5,"ASST":3,"SHOTS":33,"SOG":12}
+{"Rank":57,"PLAYER":"John Lundstram","TEAM":"Sheffield United","GP":34,"GS":26,"MIN":2455,"G":5,"ASST":3,"SHOTS":33,"SOG":10}
+{"Rank":58,"PLAYER":"James Ward-Prowse","TEAM":"Southampton","GP":38,"GS":38,"MIN":3420,"G":5,"ASST":3,"SHOTS":43,"SOG":26}
+{"Rank":59,"PLAYER":"Wesley Moraes Ferreira da Silva","TEAM":"Aston Villa","GP":21,"GS":21,"MIN":1790,"G":5,"ASST":1,"SHOTS":28,"SOG":18}
+{"Rank":60,"PLAYER":"Nicolas P\u00e9p\u00e9","TEAM":"Arsenal","GP":31,"GS":22,"MIN":2015,"G":5,"ASST":6,"SHOTS":37,"SOG":18}
+{"Rank":61,"PLAYER":"Kelechi Iheanacho","TEAM":"Leicester City","GP":20,"GS":12,"MIN":961,"G":5,"ASST":3,"SHOTS":29,"SOG":20}
+{"Rank":62,"PLAYER":"Stuart Armstrong","TEAM":"Southampton","GP":30,"GS":19,"MIN":1713,"G":5,"ASST":3,"SHOTS":35,"SOG":20}
+{"Rank":63,"PLAYER":"Andrii Yarmolenko","TEAM":"West Ham United","GP":23,"GS":10,"MIN":988,"G":5,"ASST":1,"SHOTS":22,"SOG":13}
+{"Rank":64,"PLAYER":"Isma\u00efla Sarr","TEAM":"Watford","GP":28,"GS":22,"MIN":2028,"G":5,"ASST":4,"SHOTS":30,"SOG":13}
+{"Rank":65,"PLAYER":"Divock Okoth Origi","TEAM":"Liverpool","GP":28,"GS":7,"MIN":706,"G":4,"ASST":1,"SHOTS":10,"SOG":6}
+{"Rank":66,"PLAYER":"Trent Alexander-Arnold","TEAM":"Liverpool","GP":38,"GS":35,"MIN":3176,"G":4,"ASST":13,"SHOTS":27,"SOG":13}
+{"Rank":67,"PLAYER":"Jordan Henderson","TEAM":"Liverpool","GP":30,"GS":26,"MIN":2244,"G":4,"ASST":5,"SHOTS":12,"SOG":8}
+{"Rank":68,"PLAYER":"Alex Oxlade-Chamberlain","TEAM":"Liverpool","GP":30,"GS":17,"MIN":1492,"G":4,"ASST":1,"SHOTS":22,"SOG":10}
+{"Rank":69,"PLAYER":"Georginio Wijnaldum","TEAM":"Liverpool","GP":37,"GS":35,"MIN":2948,"G":4,"ASST":0,"SHOTS":31,"SOG":15}
+{"Rank":70,"PLAYER":"Che Adams","TEAM":"Southampton","GP":30,"GS":12,"MIN":1105,"G":4,"ASST":2,"SHOTS":22,"SOG":10}
+{"Rank":71,"PLAYER":"Nathan Redmond","TEAM":"Southampton","GP":32,"GS":32,"MIN":2768,"G":4,"ASST":4,"SHOTS":45,"SOG":21}
+{"Rank":72,"PLAYER":"Wilfried Zaha","TEAM":"Crystal Palace","GP":38,"GS":37,"MIN":3280,"G":4,"ASST":3,"SHOTS":39,"SOG":17}
+{"Rank":73,"PLAYER":"Lucas Rodrigues Moura da Silva","TEAM":"Tottenham Hotspur","GP":35,"GS":25,"MIN":2247,"G":4,"ASST":4,"SHOTS":35,"SOG":14}
+{"Rank":74,"PLAYER":"Anwar El Ghazi","TEAM":"Aston Villa","GP":34,"GS":26,"MIN":2061,"G":4,"ASST":4,"SHOTS":41,"SOG":20}
+{"Rank":75,"PLAYER":"Miguel \u00c1ngel Almir\u00f3n Rejala","TEAM":"Newcastle United","GP":36,"GS":35,"MIN":3033,"G":4,"ASST":2,"SHOTS":37,"SOG":17}
+{"Rank":76,"PLAYER":"Leander Dendoncker","TEAM":"Wolverhampton Wanderers","GP":38,"GS":32,"MIN":2794,"G":4,"ASST":0,"SHOTS":15,"SOG":5}
+{"Rank":77,"PLAYER":"Matt Doherty","TEAM":"Wolverhampton Wanderers","GP":36,"GS":32,"MIN":2840,"G":4,"ASST":3,"SHOTS":26,"SOG":16}
+{"Rank":78,"PLAYER":"Adama Traor\u00e9","TEAM":"Wolverhampton Wanderers","GP":37,"GS":27,"MIN":2606,"G":4,"ASST":9,"SHOTS":28,"SOG":12}
+{"Rank":79,"PLAYER":"Jorge Luiz Frello Filho","TEAM":"Chelsea","GP":31,"GS":27,"MIN":2384,"G":4,"ASST":2,"SHOTS":8,"SOG":4}
+{"Rank":80,"PLAYER":"Marcos Alonso","TEAM":"Chelsea","GP":18,"GS":15,"MIN":1432,"G":4,"ASST":2,"SHOTS":19,"SOG":8}
+{"Rank":81,"PLAYER":"Scott McTominay","TEAM":"Manchester United","GP":27,"GS":20,"MIN":1770,"G":4,"ASST":1,"SHOTS":17,"SOG":10}
+{"Rank":82,"PLAYER":"Gerard Deulofeu","TEAM":"Watford","GP":28,"GS":25,"MIN":2105,"G":4,"ASST":5,"SHOTS":43,"SOG":21}
+{"Rank":83,"PLAYER":"Abdoulaye Doucour\u00e9","TEAM":"Watford","GP":37,"GS":36,"MIN":3167,"G":4,"ASST":2,"SHOTS":41,"SOG":12}
+{"Rank":84,"PLAYER":"Mark Noble","TEAM":"West Ham United","GP":33,"GS":32,"MIN":2684,"G":4,"ASST":3,"SHOTS":14,"SOG":6}
+{"Rank":85,"PLAYER":"Dwight Gayle","TEAM":"Newcastle United","GP":20,"GS":10,"MIN":849,"G":4,"ASST":2,"SHOTS":18,"SOG":10}
+{"Rank":86,"PLAYER":"Rodrigo Hern\u00e1ndez Cascante","TEAM":"Manchester City","GP":35,"GS":29,"MIN":2486,"G":3,"ASST":2,"SHOTS":20,"SOG":9}
+{"Rank":87,"PLAYER":"Aaron Cresswell","TEAM":"West Ham United","GP":31,"GS":31,"MIN":2730,"G":3,"ASST":0,"SHOTS":14,"SOG":5}
+{"Rank":88,"PLAYER":"Issa Diop","TEAM":"West Ham United","GP":32,"GS":31,"MIN":2766,"G":3,"ASST":1,"SHOTS":14,"SOG":7}
+{"Rank":89,"PLAYER":"Bernard An\u00edcio Caldeira Duarte","TEAM":"Everton","GP":27,"GS":15,"MIN":1278,"G":3,"ASST":2,"SHOTS":7,"SOG":5}
+{"Rank":90,"PLAYER":"Luka Milivojevi\u0107","TEAM":"Crystal Palace","GP":31,"GS":28,"MIN":2514,"G":3,"ASST":1,"SHOTS":21,"SOG":9}
+{"Rank":91,"PLAYER":"Lewis Dunk","TEAM":"Brighton and Hove Albion","GP":36,"GS":36,"MIN":3231,"G":3,"ASST":3,"SHOTS":26,"SOG":10}
+{"Rank":92,"PLAYER":"Billy Sharp","TEAM":"Sheffield United","GP":25,"GS":10,"MIN":1047,"G":3,"ASST":2,"SHOTS":13,"SOG":7}
+{"Rank":93,"PLAYER":"Adam Webster","TEAM":"Brighton and Hove Albion","GP":31,"GS":31,"MIN":2670,"G":3,"ASST":1,"SHOTS":13,"SOG":7}
+{"Rank":94,"PLAYER":"Dominic Solanke","TEAM":"Bournemouth","GP":32,"GS":17,"MIN":1644,"G":3,"ASST":1,"SHOTS":18,"SOG":8}
+{"Rank":95,"PLAYER":"Michael Obafemi","TEAM":"Southampton","GP":21,"GS":8,"MIN":661,"G":3,"ASST":2,"SHOTS":7,"SOG":5}
+{"Rank":96,"PLAYER":"Patrick van Aanholt","TEAM":"Crystal Palace","GP":29,"GS":29,"MIN":2511,"G":3,"ASST":2,"SHOTS":18,"SOG":6}
+{"Rank":97,"PLAYER":"John McGinn","TEAM":"Aston Villa","GP":28,"GS":27,"MIN":2316,"G":3,"ASST":3,"SHOTS":43,"SOG":20}
+{"Rank":98,"PLAYER":"Conor Hourihane","TEAM":"Aston Villa","GP":27,"GS":18,"MIN":1538,"G":3,"ASST":5,"SHOTS":16,"SOG":10}
+{"Rank":99,"PLAYER":"Douglas Luiz Soares de Paulo","TEAM":"Aston Villa","GP":36,"GS":28,"MIN":2608,"G":3,"ASST":2,"SHOTS":22,"SOG":12}
+{"Rank":100,"PLAYER":"Gabriel Teodoro Martinelli Silva","TEAM":"Arsenal","GP":14,"GS":6,"MIN":655,"G":3,"ASST":0,"SHOTS":10,"SOG":5}
+{"Rank":101,"PLAYER":"Ricardo Domingos Barbosa Pereira","TEAM":"Leicester City","GP":28,"GS":28,"MIN":2520,"G":3,"ASST":2,"SHOTS":15,"SOG":5}
+{"Rank":102,"PLAYER":"Ben Chilwell","TEAM":"Leicester City","GP":27,"GS":27,"MIN":2375,"G":3,"ASST":3,"SHOTS":13,"SOG":6}
+{"Rank":103,"PLAYER":"Pedro Lomba Neto","TEAM":"Wolverhampton Wanderers","GP":29,"GS":9,"MIN":928,"G":3,"ASST":3,"SHOTS":12,"SOG":6}
+{"Rank":104,"PLAYER":"Youri Tielemans","TEAM":"Leicester City","GP":37,"GS":32,"MIN":2834,"G":3,"ASST":6,"SHOTS":35,"SOG":13}
+{"Rank":105,"PLAYER":"Allan Saint-Maximin","TEAM":"Newcastle United","GP":26,"GS":23,"MIN":1870,"G":3,"ASST":4,"SHOTS":32,"SOG":21}
+{"Rank":106,"PLAYER":"Daniel James","TEAM":"Manchester United","GP":33,"GS":26,"MIN":2290,"G":3,"ASST":6,"SHOTS":32,"SOG":20}
+{"Rank":107,"PLAYER":"N'Golo Kant\u00e9","TEAM":"Chelsea","GP":22,"GS":20,"MIN":1733,"G":3,"ASST":0,"SHOTS":12,"SOG":6}
+{"Rank":108,"PLAYER":"Roberto Maximiliano Pereyra","TEAM":"Watford","GP":28,"GS":17,"MIN":1653,"G":3,"ASST":0,"SHOTS":13,"SOG":9}
+{"Rank":109,"PLAYER":"Jeffrey Schlupp","TEAM":"Crystal Palace","GP":17,"GS":11,"MIN":1034,"G":3,"ASST":1,"SHOTS":12,"SOG":10}
+{"Rank":110,"PLAYER":"Aaron Anthony Connolly","TEAM":"Brighton and Hove Albion","GP":24,"GS":14,"MIN":1261,"G":3,"ASST":1,"SHOTS":25,"SOG":14}
+{"Rank":111,"PLAYER":"Dan Gosling","TEAM":"Bournemouth","GP":24,"GS":14,"MIN":1260,"G":3,"ASST":1,"SHOTS":9,"SOG":6}
+{"Rank":112,"PLAYER":"Junior Stanislas","TEAM":"Bournemouth","GP":15,"GS":7,"MIN":712,"G":3,"ASST":0,"SHOTS":11,"SOG":7}
+{"Rank":113,"PLAYER":"Tom\u00e1\u0161 Sou\u010dek","TEAM":"West Ham United","GP":13,"GS":12,"MIN":1041,"G":3,"ASST":0,"SHOTS":16,"SOG":8}
+{"Rank":114,"PLAYER":"Steven Bergwijn","TEAM":"Tottenham Hotspur","GP":14,"GS":8,"MIN":702,"G":3,"ASST":1,"SHOTS":6,"SOG":4}
+{"Rank":115,"PLAYER":"Naby Deco Ke\u00efta","TEAM":"Liverpool","GP":18,"GS":9,"MIN":814,"G":2,"ASST":3,"SHOTS":10,"SOG":7}
+{"Rank":116,"PLAYER":"James Milner","TEAM":"Liverpool","GP":22,"GS":9,"MIN":926,"G":2,"ASST":2,"SHOTS":10,"SOG":4}
+{"Rank":117,"PLAYER":"Andrew Robertson","TEAM":"Liverpool","GP":36,"GS":34,"MIN":3113,"G":2,"ASST":12,"SHOTS":15,"SOG":6}
+{"Rank":118,"PLAYER":"F\u00e1bio Henrique Tavares","TEAM":"Liverpool","GP":28,"GS":22,"MIN":2074,"G":2,"ASST":3,"SHOTS":8,"SOG":4}
+{"Rank":119,"PLAYER":"\u0130lkay G\u00fcndo\u011fan","TEAM":"Manchester City","GP":31,"GS":21,"MIN":2017,"G":2,"ASST":1,"SHOTS":19,"SOG":8}
+{"Rank":120,"PLAYER":"Nicol\u00e1s Hern\u00e1n Otamendi","TEAM":"Manchester City","GP":24,"GS":18,"MIN":1711,"G":2,"ASST":0,"SHOTS":12,"SOG":7}
+{"Rank":121,"PLAYER":"Pablo Fornals","TEAM":"West Ham United","GP":36,"GS":24,"MIN":2177,"G":2,"ASST":5,"SHOTS":27,"SOG":11}
+{"Rank":122,"PLAYER":"Angelo Ogbonna","TEAM":"West Ham United","GP":31,"GS":31,"MIN":2787,"G":2,"ASST":0,"SHOTS":12,"SOG":4}
+{"Rank":123,"PLAYER":"Moise Kean","TEAM":"Everton","GP":29,"GS":6,"MIN":835,"G":2,"ASST":2,"SHOTS":25,"SOG":13}
+{"Rank":124,"PLAYER":"Michael Keane","TEAM":"Everton","GP":31,"GS":28,"MIN":2556,"G":2,"ASST":0,"SHOTS":13,"SOG":4}
+{"Rank":125,"PLAYER":"Yerry Fernando Mina Gonz\u00e1lez","TEAM":"Everton","GP":29,"GS":25,"MIN":2281,"G":2,"ASST":1,"SHOTS":23,"SOG":11}
+{"Rank":126,"PLAYER":"Gylfi Sigurdsson","TEAM":"Everton","GP":35,"GS":28,"MIN":2563,"G":2,"ASST":3,"SHOTS":26,"SOG":14}
+{"Rank":127,"PLAYER":"Cenk Tosun","TEAM":"Everton","GP":10,"GS":4,"MIN":466,"G":2,"ASST":0,"SHOTS":12,"SOG":5}
+{"Rank":128,"PLAYER":"Theo Walcott","TEAM":"Everton","GP":25,"GS":17,"MIN":1297,"G":2,"ASST":3,"SHOTS":19,"SOG":10}
+{"Rank":129,"PLAYER":"Pascal Gro\u00df","TEAM":"Brighton and Hove Albion","GP":29,"GS":22,"MIN":1802,"G":2,"ASST":4,"SHOTS":20,"SOG":9}
+{"Rank":130,"PLAYER":"George Baldock","TEAM":"Sheffield United","GP":38,"GS":38,"MIN":3420,"G":2,"ASST":3,"SHOTS":10,"SOG":5}
+{"Rank":131,"PLAYER":"John Egan","TEAM":"Sheffield United","GP":36,"GS":36,"MIN":3189,"G":2,"ASST":0,"SHOTS":13,"SOG":5}
+{"Rank":132,"PLAYER":"David McGoldrick","TEAM":"Sheffield United","GP":28,"GS":22,"MIN":1822,"G":2,"ASST":2,"SHOTS":38,"SOG":20}
+{"Rank":133,"PLAYER":"Enda Stevens","TEAM":"Sheffield United","GP":38,"GS":38,"MIN":3346,"G":2,"ASST":4,"SHOTS":15,"SOG":4}
+{"Rank":134,"PLAYER":"Nathan Ak\u00e9","TEAM":"Bournemouth","GP":29,"GS":29,"MIN":2505,"G":2,"ASST":2,"SHOTS":19,"SOG":7}
+{"Rank":135,"PLAYER":"Moussa Djenepo","TEAM":"Southampton","GP":18,"GS":10,"MIN":926,"G":2,"ASST":2,"SHOTS":17,"SOG":8}
+{"Rank":136,"PLAYER":"Christian Benteke Liolo","TEAM":"Crystal Palace","GP":24,"GS":13,"MIN":1257,"G":2,"ASST":1,"SHOTS":34,"SOG":19}
+{"Rank":137,"PLAYER":"Tyrone Mings","TEAM":"Aston Villa","GP":33,"GS":33,"MIN":2903,"G":2,"ASST":2,"SHOTS":9,"SOG":4}
+{"Rank":138,"PLAYER":"Tanguy Ndomb\u00e8l\u00e9 Alvaro","TEAM":"Tottenham Hotspur","GP":21,"GS":12,"MIN":1007,"G":2,"ASST":2,"SHOTS":6,"SOG":4}
+{"Rank":139,"PLAYER":"Erik Lamela","TEAM":"Tottenham Hotspur","GP":25,"GS":12,"MIN":1211,"G":2,"ASST":1,"SHOTS":19,"SOG":10}
+{"Rank":140,"PLAYER":"Moussa Sissoko","TEAM":"Tottenham Hotspur","GP":29,"GS":28,"MIN":2455,"G":2,"ASST":1,"SHOTS":12,"SOG":4}
+{"Rank":141,"PLAYER":"Toby Alderweireld","TEAM":"Tottenham Hotspur","GP":33,"GS":33,"MIN":2958,"G":2,"ASST":2,"SHOTS":13,"SOG":4}
+{"Rank":142,"PLAYER":"Jonathan Castro Otto","TEAM":"Wolverhampton Wanderers","GP":35,"GS":33,"MIN":2890,"G":2,"ASST":2,"SHOTS":11,"SOG":5}
+{"Rank":143,"PLAYER":"R\u00faben Diogo da Silva Neves","TEAM":"Wolverhampton Wanderers","GP":38,"GS":35,"MIN":3059,"G":2,"ASST":2,"SHOTS":38,"SOG":10}
+{"Rank":144,"PLAYER":"David Luiz Moreira Marinho","TEAM":"Arsenal","GP":33,"GS":32,"MIN":2811,"G":2,"ASST":1,"SHOTS":19,"SOG":8}
+{"Rank":145,"PLAYER":"Sokratis Papastathopoulos","TEAM":"Arsenal","GP":19,"GS":19,"MIN":1697,"G":2,"ASST":0,"SHOTS":5,"SOG":2}
+{"Rank":146,"PLAYER":"Onyinye Wilfred Ndidi","TEAM":"Leicester City","GP":32,"GS":29,"MIN":2674,"G":2,"ASST":1,"SHOTS":19,"SOG":3}
+{"Rank":147,"PLAYER":"Romain Sa\u00efss","TEAM":"Wolverhampton Wanderers","GP":33,"GS":31,"MIN":2706,"G":2,"ASST":1,"SHOTS":19,"SOG":8}
+{"Rank":148,"PLAYER":"Joelinton C\u00e1ssio Apolin\u00e1rio de Lira","TEAM":"Newcastle United","GP":38,"GS":32,"MIN":2699,"G":2,"ASST":2,"SHOTS":38,"SOG":15}
+{"Rank":149,"PLAYER":"Ciaran Clark","TEAM":"Newcastle United","GP":14,"GS":14,"MIN":1188,"G":2,"ASST":0,"SHOTS":5,"SOG":4}
+{"Rank":150,"PLAYER":"Federico Fern\u00e1ndez","TEAM":"Newcastle United","GP":32,"GS":29,"MIN":2618,"G":2,"ASST":2,"SHOTS":13,"SOG":7}
+{"Rank":151,"PLAYER":"Matt Ritchie","TEAM":"Newcastle United","GP":18,"GS":14,"MIN":1315,"G":2,"ASST":1,"SHOTS":17,"SOG":8}
+{"Rank":152,"PLAYER":"Fabian Sch\u00e4r","TEAM":"Newcastle United","GP":22,"GS":18,"MIN":1633,"G":2,"ASST":0,"SHOTS":15,"SOG":6}
+{"Rank":153,"PLAYER":"C\u00e9sar Azpilicueta","TEAM":"Chelsea","GP":36,"GS":36,"MIN":3230,"G":2,"ASST":6,"SHOTS":20,"SOG":6}
+{"Rank":154,"PLAYER":"Dwight McNeil","TEAM":"Burnley","GP":38,"GS":38,"MIN":3344,"G":2,"ASST":6,"SHOTS":32,"SOG":14}
+{"Rank":155,"PLAYER":"James Tarkowski","TEAM":"Burnley","GP":38,"GS":38,"MIN":3420,"G":2,"ASST":2,"SHOTS":15,"SOG":5}
+{"Rank":156,"PLAYER":"Ashley Westwood","TEAM":"Burnley","GP":35,"GS":35,"MIN":3150,"G":2,"ASST":6,"SHOTS":8,"SOG":3}
+{"Rank":157,"PLAYER":"Craig Dawson","TEAM":"Watford","GP":29,"GS":26,"MIN":2359,"G":2,"ASST":0,"SHOTS":18,"SOG":7}
+{"Rank":158,"PLAYER":"Andre Gray","TEAM":"Watford","GP":23,"GS":7,"MIN":746,"G":2,"ASST":0,"SHOTS":16,"SOG":7}
+{"Rank":159,"PLAYER":"Danny Welbeck","TEAM":"Watford","GP":18,"GS":8,"MIN":815,"G":2,"ASST":0,"SHOTS":18,"SOG":9}
+{"Rank":160,"PLAYER":"Demarai Gray","TEAM":"Leicester City","GP":21,"GS":3,"MIN":607,"G":2,"ASST":3,"SHOTS":16,"SOG":8}
+{"Rank":161,"PLAYER":"Matej Vydra","TEAM":"Burnley","GP":19,"GS":7,"MIN":812,"G":2,"ASST":1,"SHOTS":17,"SOG":10}
+{"Rank":162,"PLAYER":"Shane Long","TEAM":"Southampton","GP":26,"GS":15,"MIN":1399,"G":2,"ASST":2,"SHOTS":28,"SOG":14}
+{"Rank":163,"PLAYER":"Alireza Jahanbakhsh","TEAM":"Brighton and Hove Albion","GP":10,"GS":3,"MIN":308,"G":2,"ASST":0,"SHOTS":8,"SOG":2}
+{"Rank":164,"PLAYER":"Matthew Longstaff","TEAM":"Newcastle United","GP":9,"GS":6,"MIN":572,"G":2,"ASST":0,"SHOTS":3,"SOG":2}
+{"Rank":165,"PLAYER":"Antonio R\u00fcdiger","TEAM":"Chelsea","GP":20,"GS":19,"MIN":1710,"G":2,"ASST":0,"SHOTS":9,"SOG":3}
+{"Rank":166,"PLAYER":"Florian Lejeune","TEAM":"Newcastle United","GP":6,"GS":4,"MIN":441,"G":2,"ASST":0,"SHOTS":4,"SOG":3}
+{"Rank":167,"PLAYER":"Eddie Nketiah","TEAM":"Arsenal","GP":13,"GS":7,"MIN":633,"G":2,"ASST":0,"SHOTS":13,"SOG":5}
+{"Rank":168,"PLAYER":"Emiliano Buend\u00eda","TEAM":"Norwich City","GP":36,"GS":28,"MIN":2462,"G":1,"ASST":7,"SHOTS":27,"SOG":11}
+{"Rank":169,"PLAYER":"Josip Drmic","TEAM":"Norwich City","GP":21,"GS":5,"MIN":637,"G":1,"ASST":0,"SHOTS":11,"SOG":6}
+{"Rank":170,"PLAYER":"Onel Hern\u00e1ndez","TEAM":"Norwich City","GP":26,"GS":14,"MIN":1381,"G":1,"ASST":2,"SHOTS":17,"SOG":8}
+{"Rank":171,"PLAYER":"Jamal Lewis","TEAM":"Norwich City","GP":28,"GS":25,"MIN":2303,"G":1,"ASST":0,"SHOTS":7,"SOG":4}
+{"Rank":172,"PLAYER":"Kenny McLean","TEAM":"Norwich City","GP":37,"GS":32,"MIN":2964,"G":1,"ASST":1,"SHOTS":23,"SOG":10}
+{"Rank":173,"PLAYER":"Mario Vrancic","TEAM":"Norwich City","GP":20,"GS":6,"MIN":628,"G":1,"ASST":0,"SHOTS":9,"SOG":3}
+{"Rank":174,"PLAYER":"Joel Matip","TEAM":"Liverpool","GP":9,"GS":8,"MIN":704,"G":1,"ASST":0,"SHOTS":4,"SOG":1}
+{"Rank":175,"PLAYER":"Xherdan Shaqiri","TEAM":"Liverpool","GP":7,"GS":2,"MIN":182,"G":1,"ASST":0,"SHOTS":2,"SOG":1}
+{"Rank":176,"PLAYER":"Kyle Walker","TEAM":"Manchester City","GP":29,"GS":28,"MIN":2395,"G":1,"ASST":4,"SHOTS":9,"SOG":3}
+{"Rank":177,"PLAYER":"Fabi\u00e1n Cornelio Balbuena Gonz\u00e1lez","TEAM":"West Ham United","GP":17,"GS":13,"MIN":1176,"G":1,"ASST":0,"SHOTS":8,"SOG":4}
+{"Rank":178,"PLAYER":"Felipe Anderson Pereira Gomes","TEAM":"West Ham United","GP":25,"GS":20,"MIN":1505,"G":1,"ASST":4,"SHOTS":15,"SOG":8}
+{"Rank":179,"PLAYER":"Aymeric Laporte","TEAM":"Manchester City","GP":15,"GS":14,"MIN":1104,"G":1,"ASST":0,"SHOTS":3,"SOG":2}
+{"Rank":180,"PLAYER":"Declan Rice","TEAM":"West Ham United","GP":38,"GS":38,"MIN":3420,"G":1,"ASST":3,"SHOTS":23,"SOG":9}
+{"Rank":181,"PLAYER":"Davy Pr\u00f6pper","TEAM":"Brighton and Hove Albion","GP":35,"GS":32,"MIN":2829,"G":1,"ASST":2,"SHOTS":19,"SOG":8}
+{"Rank":182,"PLAYER":"J\u00f3hann Gudmundsson","TEAM":"Burnley","GP":12,"GS":6,"MIN":622,"G":1,"ASST":1,"SHOTS":8,"SOG":2}
+{"Rank":183,"PLAYER":"Chris Mepham","TEAM":"Bournemouth","GP":12,"GS":10,"MIN":911,"G":1,"ASST":0,"SHOTS":6,"SOG":2}
+{"Rank":184,"PLAYER":"Tom Davies","TEAM":"Everton","GP":30,"GS":23,"MIN":2026,"G":1,"ASST":0,"SHOTS":11,"SOG":5}
+{"Rank":185,"PLAYER":"Shane Duffy","TEAM":"Brighton and Hove Albion","GP":19,"GS":12,"MIN":1232,"G":1,"ASST":0,"SHOTS":6,"SOG":1}
+{"Rank":186,"PLAYER":"Glenn Murray","TEAM":"Brighton and Hove Albion","GP":23,"GS":7,"MIN":790,"G":1,"ASST":1,"SHOTS":15,"SOG":5}
+{"Rank":187,"PLAYER":"Oliver Norwood","TEAM":"Sheffield United","GP":38,"GS":37,"MIN":3100,"G":1,"ASST":1,"SHOTS":12,"SOG":6}
+{"Rank":188,"PLAYER":"Philip Billing","TEAM":"Bournemouth","GP":34,"GS":29,"MIN":2532,"G":1,"ASST":1,"SHOTS":26,"SOG":8}
+{"Rank":189,"PLAYER":"Steve Cook","TEAM":"Bournemouth","GP":29,"GS":28,"MIN":2430,"G":1,"ASST":0,"SHOTS":7,"SOG":2}
+{"Rank":190,"PLAYER":"Jefferson Andr\u00e9s Lerma Sol\u00eds","TEAM":"Bournemouth","GP":33,"GS":31,"MIN":2709,"G":1,"ASST":2,"SHOTS":21,"SOG":2}
+{"Rank":191,"PLAYER":"C\u00e9dric Ricardo Alves Soares","TEAM":"Arsenal","GP":21,"GS":19,"MIN":1559,"G":1,"ASST":1,"SHOTS":7,"SOG":5}
+{"Rank":192,"PLAYER":"Jan Bednarek","TEAM":"Southampton","GP":34,"GS":34,"MIN":3058,"G":1,"ASST":1,"SHOTS":6,"SOG":1}
+{"Rank":193,"PLAYER":"Ryan Bertrand","TEAM":"Southampton","GP":32,"GS":31,"MIN":2744,"G":1,"ASST":1,"SHOTS":14,"SOG":3}
+{"Rank":194,"PLAYER":"Jack Stephens","TEAM":"Southampton","GP":28,"GS":27,"MIN":2453,"G":1,"ASST":3,"SHOTS":6,"SOG":2}
+{"Rank":195,"PLAYER":"Jannik Vestergaard","TEAM":"Southampton","GP":19,"GS":17,"MIN":1497,"G":1,"ASST":0,"SHOTS":10,"SOG":5}
+{"Rank":196,"PLAYER":"Cheikhou Kouyat\u00e9","TEAM":"Crystal Palace","GP":35,"GS":29,"MIN":2535,"G":1,"ASST":1,"SHOTS":20,"SOG":4}
+{"Rank":197,"PLAYER":"Andros Townsend","TEAM":"Crystal Palace","GP":24,"GS":14,"MIN":1289,"G":1,"ASST":1,"SHOTS":8,"SOG":5}
+{"Rank":198,"PLAYER":"Ahmed Eissa El Mohamady Abdel Fattah","TEAM":"Aston Villa","GP":18,"GS":11,"MIN":1026,"G":1,"ASST":1,"SHOTS":4,"SOG":1}
+{"Rank":199,"PLAYER":"Bj\u00f6rn Engels","TEAM":"Aston Villa","GP":17,"GS":15,"MIN":1447,"G":1,"ASST":0,"SHOTS":8,"SOG":1}
+{"Rank":200,"PLAYER":"Ezri Konsa Ngoyo","TEAM":"Aston Villa","GP":25,"GS":24,"MIN":2042,"G":1,"ASST":2,"SHOTS":8,"SOG":4}
+{"Rank":201,"PLAYER":"Matt Targett","TEAM":"Aston Villa","GP":28,"GS":27,"MIN":2295,"G":1,"ASST":2,"SHOTS":6,"SOG":4}
+{"Rank":202,"PLAYER":"Serge Aurier","TEAM":"Tottenham Hotspur","GP":33,"GS":31,"MIN":2705,"G":1,"ASST":5,"SHOTS":7,"SOG":4}
+{"Rank":203,"PLAYER":"Reiss Nelson","TEAM":"Arsenal","GP":17,"GS":7,"MIN":627,"G":1,"ASST":0,"SHOTS":6,"SOG":4}
+{"Rank":204,"PLAYER":"Granit Xhaka","TEAM":"Arsenal","GP":31,"GS":30,"MIN":2591,"G":1,"ASST":2,"SHOTS":8,"SOG":3}
+{"Rank":205,"PLAYER":"Calum Chambers","TEAM":"Arsenal","GP":14,"GS":13,"MIN":1103,"G":1,"ASST":1,"SHOTS":8,"SOG":2}
+{"Rank":206,"PLAYER":"Lucas Torreira","TEAM":"Arsenal","GP":29,"GS":17,"MIN":1508,"G":1,"ASST":1,"SHOTS":17,"SOG":6}
+{"Rank":207,"PLAYER":"Joseph Willock","TEAM":"Arsenal","GP":29,"GS":8,"MIN":844,"G":1,"ASST":1,"SHOTS":12,"SOG":5}
+{"Rank":208,"PLAYER":"Hamza Choudhury","TEAM":"Leicester City","GP":20,"GS":10,"MIN":889,"G":1,"ASST":1,"SHOTS":4,"SOG":2}
+{"Rank":209,"PLAYER":"Jonny Evans","TEAM":"Leicester City","GP":38,"GS":38,"MIN":3385,"G":1,"ASST":1,"SHOTS":22,"SOG":8}
+{"Rank":210,"PLAYER":"Dennis Praet","TEAM":"Leicester City","GP":27,"GS":12,"MIN":1132,"G":1,"ASST":2,"SHOTS":8,"SOG":3}
+{"Rank":211,"PLAYER":"Jo\u00e3o Filipe Iria Santos Moutinho","TEAM":"Wolverhampton Wanderers","GP":38,"GS":34,"MIN":3107,"G":1,"ASST":6,"SHOTS":17,"SOG":6}
+{"Rank":212,"PLAYER":"\u00c7a\u011flar S\u00f6y\u00fcnc\u00fc","TEAM":"Leicester City","GP":34,"GS":34,"MIN":3037,"G":1,"ASST":1,"SHOTS":17,"SOG":5}
+{"Rank":213,"PLAYER":"Isaac Hayden","TEAM":"Newcastle United","GP":29,"GS":26,"MIN":2226,"G":1,"ASST":2,"SHOTS":10,"SOG":3}
+{"Rank":214,"PLAYER":"Jamaal Lascelles","TEAM":"Newcastle United","GP":24,"GS":24,"MIN":2079,"G":1,"ASST":0,"SHOTS":7,"SOG":2}
+{"Rank":215,"PLAYER":"Sean Longstaff","TEAM":"Newcastle United","GP":23,"GS":14,"MIN":1373,"G":1,"ASST":1,"SHOTS":18,"SOG":7}
+{"Rank":216,"PLAYER":"Jesse Lingard","TEAM":"Manchester United","GP":22,"GS":9,"MIN":932,"G":1,"ASST":0,"SHOTS":12,"SOG":6}
+{"Rank":217,"PLAYER":"Andreas Hugo Hoelgebaum Pereira","TEAM":"Manchester United","GP":25,"GS":18,"MIN":1488,"G":1,"ASST":3,"SHOTS":28,"SOG":14}
+{"Rank":218,"PLAYER":"Paul Pogba","TEAM":"Manchester United","GP":16,"GS":13,"MIN":1205,"G":1,"ASST":3,"SHOTS":17,"SOG":8}
+{"Rank":219,"PLAYER":"Victor Lindel\u00f6f","TEAM":"Manchester United","GP":35,"GS":35,"MIN":3093,"G":1,"ASST":0,"SHOTS":5,"SOG":1}
+{"Rank":220,"PLAYER":"Ross Barkley","TEAM":"Chelsea","GP":21,"GS":13,"MIN":1104,"G":1,"ASST":4,"SHOTS":24,"SOG":12}
+{"Rank":221,"PLAYER":"Mateo Kova\u010di\u0107","TEAM":"Chelsea","GP":31,"GS":23,"MIN":2073,"G":1,"ASST":3,"SHOTS":12,"SOG":5}
+{"Rank":222,"PLAYER":"Pedro Rodr\u00edguez Ledesma","TEAM":"Chelsea","GP":11,"GS":8,"MIN":662,"G":1,"ASST":1,"SHOTS":14,"SOG":10}
+{"Rank":223,"PLAYER":"Fikayo Tomori","TEAM":"Chelsea","GP":15,"GS":15,"MIN":1293,"G":1,"ASST":0,"SHOTS":6,"SOG":3}
+{"Rank":224,"PLAYER":"Harry Maguire","TEAM":"Manchester United","GP":38,"GS":38,"MIN":3420,"G":1,"ASST":1,"SHOTS":25,"SOG":8}
+{"Rank":225,"PLAYER":"Ben Mee","TEAM":"Burnley","GP":32,"GS":32,"MIN":2880,"G":1,"ASST":1,"SHOTS":13,"SOG":7}
+{"Rank":226,"PLAYER":"Tom Cleverley","TEAM":"Watford","GP":18,"GS":11,"MIN":966,"G":1,"ASST":0,"SHOTS":10,"SOG":5}
+{"Rank":227,"PLAYER":"Will Hughes","TEAM":"Watford","GP":30,"GS":27,"MIN":2262,"G":1,"ASST":1,"SHOTS":17,"SOG":3}
+{"Rank":228,"PLAYER":"Alex Iwobi","TEAM":"Everton","GP":25,"GS":19,"MIN":1601,"G":1,"ASST":0,"SHOTS":18,"SOG":10}
+{"Rank":229,"PLAYER":"Adam Lallana","TEAM":"Liverpool","GP":15,"GS":3,"MIN":374,"G":1,"ASST":1,"SHOTS":3,"SOG":1}
+{"Rank":230,"PLAYER":"Alexander Tettey","TEAM":"Norwich City","GP":30,"GS":28,"MIN":2350,"G":1,"ASST":1,"SHOTS":13,"SOG":4}
+{"Rank":231,"PLAYER":"Jan Vertonghen","TEAM":"Tottenham Hotspur","GP":23,"GS":19,"MIN":1646,"G":1,"ASST":1,"SHOTS":3,"SOG":2}
+{"Rank":232,"PLAYER":"Michy Batshuayi Tunga","TEAM":"Chelsea","GP":16,"GS":1,"MIN":226,"G":1,"ASST":1,"SHOTS":11,"SOG":2}
+{"Rank":233,"PLAYER":"Adam Masina","TEAM":"Watford","GP":26,"GS":20,"MIN":1818,"G":1,"ASST":0,"SHOTS":12,"SOG":3}
+{"Rank":234,"PLAYER":"Mesut \u00d6zil","TEAM":"Arsenal","GP":18,"GS":18,"MIN":1448,"G":1,"ASST":2,"SHOTS":5,"SOG":3}
+{"Rank":235,"PLAYER":"James Tomkins","TEAM":"Crystal Palace","GP":18,"GS":18,"MIN":1584,"G":1,"ASST":1,"SHOTS":9,"SOG":3}
+{"Rank":236,"PLAYER":"Yves Bissouma","TEAM":"Brighton and Hove Albion","GP":22,"GS":15,"MIN":1260,"G":1,"ASST":0,"SHOTS":14,"SOG":7}
+{"Rank":237,"PLAYER":"Robbie Brady","TEAM":"Burnley","GP":17,"GS":5,"MIN":450,"G":1,"ASST":2,"SHOTS":7,"SOG":1}
+{"Rank":238,"PLAYER":"Bukayo Saka","TEAM":"Arsenal","GP":26,"GS":19,"MIN":1753,"G":1,"ASST":5,"SHOTS":9,"SOG":4}
+{"Rank":239,"PLAYER":"Callum Hudson-Odoi","TEAM":"Chelsea","GP":22,"GS":7,"MIN":850,"G":1,"ASST":5,"SHOTS":10,"SOG":4}
+{"Rank":240,"PLAYER":"DeAndre Yedlin","TEAM":"Newcastle United","GP":16,"GS":10,"MIN":936,"G":1,"ASST":0,"SHOTS":1,"SOG":1}
+{"Rank":241,"PLAYER":"Brandon Williams","TEAM":"Manchester United","GP":17,"GS":11,"MIN":1004,"G":1,"ASST":0,"SHOTS":5,"SOG":2}
+{"Rank":242,"PLAYER":"Kieran Tierney","TEAM":"Arsenal","GP":15,"GS":12,"MIN":992,"G":1,"ASST":1,"SHOTS":5,"SOG":2}
+{"Rank":243,"PLAYER":"H\u00e9ctor Beller\u00edn","TEAM":"Arsenal","GP":15,"GS":13,"MIN":1159,"G":1,"ASST":0,"SHOTS":5,"SOG":2}
+{"Rank":244,"PLAYER":"Kortney Hause","TEAM":"Aston Villa","GP":18,"GS":17,"MIN":1544,"G":1,"ASST":0,"SHOTS":18,"SOG":3}
+{"Rank":245,"PLAYER":"Curtis Jones","TEAM":"Liverpool","GP":6,"GS":1,"MIN":122,"G":1,"ASST":0,"SHOTS":5,"SOG":2}
+{"Rank":246,"PLAYER":"Valentino Lazaro","TEAM":"Newcastle United","GP":13,"GS":4,"MIN":473,"G":1,"ASST":0,"SHOTS":3,"SOG":1}
+{"Rank":247,"PLAYER":"Sander Berge","TEAM":"Sheffield United","GP":14,"GS":12,"MIN":949,"G":1,"ASST":1,"SHOTS":4,"SOG":2}
+{"Rank":248,"PLAYER":"Mbwana Ally Samatta","TEAM":"Aston Villa","GP":14,"GS":11,"MIN":946,"G":1,"ASST":0,"SHOTS":12,"SOG":3}
+{"Rank":249,"PLAYER":"Daniel Castelo Podence","TEAM":"Wolverhampton Wanderers","GP":9,"GS":3,"MIN":287,"G":1,"ASST":0,"SHOTS":6,"SOG":3}
+{"Rank":250,"PLAYER":"Jarrod Bowen","TEAM":"West Ham United","GP":13,"GS":11,"MIN":919,"G":1,"ASST":4,"SHOTS":14,"SOG":7}
+{"Rank":251,"PLAYER":"David Brooks","TEAM":"Bournemouth","GP":9,"GS":8,"MIN":511,"G":1,"ASST":0,"SHOTS":3,"SOG":2}
+{"Rank":252,"PLAYER":"Moritz Leitner","TEAM":"Norwich City","GP":9,"GS":7,"MIN":684,"G":0,"ASST":0,"SHOTS":6,"SOG":0}
+{"Rank":253,"PLAYER":"Max Aarons","TEAM":"Norwich City","GP":36,"GS":36,"MIN":3240,"G":0,"ASST":1,"SHOTS":8,"SOG":4}
+{"Rank":254,"PLAYER":"Sam Byram","TEAM":"Norwich City","GP":17,"GS":15,"MIN":1294,"G":0,"ASST":0,"SHOTS":10,"SOG":2}
+{"Rank":255,"PLAYER":"Ralf F\u00e4hrmann","TEAM":"Norwich City","GP":1,"GS":1,"MIN":22,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":256,"PLAYER":"Ben Godfrey","TEAM":"Norwich City","GP":30,"GS":30,"MIN":2646,"G":0,"ASST":0,"SHOTS":15,"SOG":6}
+{"Rank":257,"PLAYER":"Grant Hanley","TEAM":"Norwich City","GP":15,"GS":14,"MIN":1262,"G":0,"ASST":0,"SHOTS":7,"SOG":2}
+{"Rank":258,"PLAYER":"Tim Krul","TEAM":"Norwich City","GP":36,"GS":36,"MIN":3240,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":259,"PLAYER":"Marco Stiepermann","TEAM":"Norwich City","GP":24,"GS":14,"MIN":1187,"G":0,"ASST":0,"SHOTS":12,"SOG":6}
+{"Rank":260,"PLAYER":"Tom Trybull","TEAM":"Norwich City","GP":16,"GS":14,"MIN":1136,"G":0,"ASST":0,"SHOTS":8,"SOG":2}
+{"Rank":261,"PLAYER":"Joseph Gomez","TEAM":"Liverpool","GP":28,"GS":22,"MIN":1999,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":262,"PLAYER":"Alisson Ramses Becker","TEAM":"Liverpool","GP":29,"GS":29,"MIN":2545,"G":0,"ASST":1,"SHOTS":0,"SOG":0}
+{"Rank":263,"PLAYER":"Adri\u00e1n San Miguel del Castillo","TEAM":"Liverpool","GP":11,"GS":9,"MIN":873,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":264,"PLAYER":"Claudio Andr\u00e9s Bravo Mu\u00f1oz","TEAM":"Manchester City","GP":4,"GS":3,"MIN":346,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":265,"PLAYER":"Jo\u00e3o Pedro Cavaco Cancelo","TEAM":"Manchester City","GP":17,"GS":13,"MIN":1205,"G":0,"ASST":0,"SHOTS":12,"SOG":3}
+{"Rank":266,"PLAYER":"Lukasz Fabianski","TEAM":"West Ham United","GP":25,"GS":25,"MIN":2119,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":267,"PLAYER":"Ederson Santana de Moraes","TEAM":"Manchester City","GP":35,"GS":35,"MIN":3072,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":268,"PLAYER":"John Stones","TEAM":"Manchester City","GP":16,"GS":12,"MIN":1119,"G":0,"ASST":0,"SHOTS":5,"SOG":1}
+{"Rank":269,"PLAYER":"Ryan Fredericks","TEAM":"West Ham United","GP":27,"GS":25,"MIN":2237,"G":0,"ASST":3,"SHOTS":1,"SOG":0}
+{"Rank":270,"PLAYER":"Oleksandr Zinchenko","TEAM":"Manchester City","GP":19,"GS":13,"MIN":1273,"G":0,"ASST":0,"SHOTS":9,"SOG":3}
+{"Rank":271,"PLAYER":"Manuel Lanzini","TEAM":"West Ham United","GP":24,"GS":14,"MIN":1377,"G":0,"ASST":2,"SHOTS":15,"SOG":7}
+{"Rank":272,"PLAYER":"Jack Wilshere","TEAM":"West Ham United","GP":8,"GS":2,"MIN":210,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":273,"PLAYER":"Max Meyer","TEAM":"Crystal Palace","GP":17,"GS":6,"MIN":650,"G":0,"ASST":0,"SHOTS":7,"SOG":2}
+{"Rank":274,"PLAYER":"Adam Smith","TEAM":"Bournemouth","GP":24,"GS":24,"MIN":2060,"G":0,"ASST":1,"SHOTS":3,"SOG":1}
+{"Rank":275,"PLAYER":"Erik Pieters","TEAM":"Burnley","GP":24,"GS":21,"MIN":1877,"G":0,"ASST":4,"SHOTS":13,"SOG":3}
+{"Rank":276,"PLAYER":"S\u00e9amus Coleman","TEAM":"Everton","GP":27,"GS":21,"MIN":1839,"G":0,"ASST":1,"SHOTS":6,"SOG":4}
+{"Rank":277,"PLAYER":"Lucas Digne","TEAM":"Everton","GP":35,"GS":35,"MIN":3035,"G":0,"ASST":7,"SHOTS":14,"SOG":4}
+{"Rank":278,"PLAYER":"Jean-Philippe Gbamin","TEAM":"Everton","GP":2,"GS":1,"MIN":135,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":279,"PLAYER":"Mason Holgate","TEAM":"Everton","GP":27,"GS":24,"MIN":2054,"G":0,"ASST":3,"SHOTS":10,"SOG":5}
+{"Rank":280,"PLAYER":"Jordan Pickford","TEAM":"Everton","GP":38,"GS":38,"MIN":3420,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":281,"PLAYER":"Andr\u00e9 Filipe Tavares Gomes","TEAM":"Everton","GP":19,"GS":17,"MIN":1460,"G":0,"ASST":1,"SHOTS":5,"SOG":0}
+{"Rank":282,"PLAYER":"Dan Burn","TEAM":"Brighton and Hove Albion","GP":34,"GS":33,"MIN":2881,"G":0,"ASST":0,"SHOTS":9,"SOG":0}
+{"Rank":283,"PLAYER":"David Button","TEAM":"Brighton and Hove Albion","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":284,"PLAYER":"Bernardo Fernandes da Silva Junior","TEAM":"Brighton and Hove Albion","GP":14,"GS":7,"MIN":678,"G":0,"ASST":0,"SHOTS":4,"SOG":2}
+{"Rank":285,"PLAYER":"Solly March","TEAM":"Brighton and Hove Albion","GP":19,"GS":11,"MIN":1144,"G":0,"ASST":1,"SHOTS":15,"SOG":8}
+{"Rank":286,"PLAYER":"Mart\u00edn Montoya","TEAM":"Brighton and Hove Albion","GP":27,"GS":23,"MIN":1900,"G":0,"ASST":1,"SHOTS":6,"SOG":3}
+{"Rank":287,"PLAYER":"Mathew Ryan","TEAM":"Brighton and Hove Albion","GP":38,"GS":38,"MIN":3420,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":288,"PLAYER":"Dale Stephens","TEAM":"Brighton and Hove Albion","GP":33,"GS":28,"MIN":2528,"G":0,"ASST":1,"SHOTS":13,"SOG":2}
+{"Rank":289,"PLAYER":"Chris Basham","TEAM":"Sheffield United","GP":38,"GS":38,"MIN":3255,"G":0,"ASST":1,"SHOTS":6,"SOG":0}
+{"Rank":290,"PLAYER":"Luke Freeman","TEAM":"Sheffield United","GP":11,"GS":3,"MIN":362,"G":0,"ASST":0,"SHOTS":1,"SOG":0}
+{"Rank":291,"PLAYER":"Dean Henderson","TEAM":"Sheffield United","GP":36,"GS":36,"MIN":3240,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":292,"PLAYER":"Phil Jagielka","TEAM":"Sheffield United","GP":6,"GS":2,"MIN":240,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":293,"PLAYER":"Simon Moore","TEAM":"Sheffield United","GP":2,"GS":2,"MIN":180,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":294,"PLAYER":"Jack O'Connell","TEAM":"Sheffield United","GP":33,"GS":32,"MIN":2915,"G":0,"ASST":1,"SHOTS":11,"SOG":3}
+{"Rank":295,"PLAYER":"Ben Osborn","TEAM":"Sheffield United","GP":13,"GS":6,"MIN":591,"G":0,"ASST":0,"SHOTS":2,"SOG":1}
+{"Rank":296,"PLAYER":"Artur Boruc","TEAM":"Bournemouth","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":297,"PLAYER":"Charlie Daniels","TEAM":"Bournemouth","GP":2,"GS":2,"MIN":127,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":298,"PLAYER":"Aaron Ramsdale","TEAM":"Bournemouth","GP":37,"GS":37,"MIN":3330,"G":0,"ASST":1,"SHOTS":0,"SOG":0}
+{"Rank":299,"PLAYER":"Diego Rico","TEAM":"Bournemouth","GP":27,"GS":27,"MIN":2334,"G":0,"ASST":4,"SHOTS":7,"SOG":3}
+{"Rank":300,"PLAYER":"Jack Simpson","TEAM":"Bournemouth","GP":4,"GS":1,"MIN":238,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":301,"PLAYER":"Andrew Surman","TEAM":"Bournemouth","GP":5,"GS":2,"MIN":235,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":302,"PLAYER":"Sofiane Boufal","TEAM":"Southampton","GP":20,"GS":8,"MIN":760,"G":0,"ASST":2,"SHOTS":12,"SOG":7}
+{"Rank":303,"PLAYER":"Angus Gunn","TEAM":"Southampton","GP":10,"GS":10,"MIN":900,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":304,"PLAYER":"Pierre-Emile H\u00f8jbjerg","TEAM":"Southampton","GP":33,"GS":30,"MIN":2750,"G":0,"ASST":1,"SHOTS":36,"SOG":11}
+{"Rank":305,"PLAYER":"Alex McCarthy","TEAM":"Southampton","GP":28,"GS":28,"MIN":2520,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":306,"PLAYER":"Oriol Romeu","TEAM":"Southampton","GP":30,"GS":20,"MIN":1858,"G":0,"ASST":0,"SHOTS":3,"SOG":0}
+{"Rank":307,"PLAYER":"Yan Valery","TEAM":"Southampton","GP":11,"GS":10,"MIN":782,"G":0,"ASST":0,"SHOTS":2,"SOG":2}
+{"Rank":308,"PLAYER":"Gary Cahill","TEAM":"Crystal Palace","GP":25,"GS":25,"MIN":2168,"G":0,"ASST":1,"SHOTS":13,"SOG":5}
+{"Rank":309,"PLAYER":"Scott Dann","TEAM":"Crystal Palace","GP":16,"GS":14,"MIN":1265,"G":0,"ASST":1,"SHOTS":6,"SOG":2}
+{"Rank":310,"PLAYER":"Vicente Guaita","TEAM":"Crystal Palace","GP":35,"GS":35,"MIN":3150,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":311,"PLAYER":"Wayne Hennessey","TEAM":"Crystal Palace","GP":3,"GS":3,"MIN":270,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":312,"PLAYER":"Martin Kelly","TEAM":"Crystal Palace","GP":19,"GS":17,"MIN":1550,"G":0,"ASST":1,"SHOTS":2,"SOG":0}
+{"Rank":313,"PLAYER":"James McArthur","TEAM":"Crystal Palace","GP":37,"GS":37,"MIN":3104,"G":0,"ASST":3,"SHOTS":20,"SOG":6}
+{"Rank":314,"PLAYER":"James McCarthy","TEAM":"Crystal Palace","GP":33,"GS":16,"MIN":1672,"G":0,"ASST":0,"SHOTS":9,"SOG":3}
+{"Rank":315,"PLAYER":"Joel Ward","TEAM":"Crystal Palace","GP":29,"GS":27,"MIN":2383,"G":0,"ASST":0,"SHOTS":4,"SOG":1}
+{"Rank":316,"PLAYER":"Tom Heaton","TEAM":"Aston Villa","GP":20,"GS":20,"MIN":1795,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":317,"PLAYER":"Henri Lansbury","TEAM":"Aston Villa","GP":10,"GS":2,"MIN":191,"G":0,"ASST":0,"SHOTS":2,"SOG":0}
+{"Rank":318,"PLAYER":"Jos\u00e9 Ignacio Peleteiro Ramallo","TEAM":"Aston Villa","GP":10,"GS":4,"MIN":332,"G":0,"ASST":1,"SHOTS":2,"SOG":1}
+{"Rank":319,"PLAYER":"Jed Steer","TEAM":"Aston Villa","GP":1,"GS":1,"MIN":8,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":320,"PLAYER":"Neil Taylor","TEAM":"Aston Villa","GP":14,"GS":11,"MIN":1089,"G":0,"ASST":0,"SHOTS":2,"SOG":0}
+{"Rank":321,"PLAYER":"Eric Dier","TEAM":"Tottenham Hotspur","GP":19,"GS":15,"MIN":1341,"G":0,"ASST":2,"SHOTS":8,"SOG":1}
+{"Rank":322,"PLAYER":"Paulo Gazzaniga","TEAM":"Tottenham Hotspur","GP":18,"GS":17,"MIN":1612,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":323,"PLAYER":"Hugo Lloris","TEAM":"Tottenham Hotspur","GP":21,"GS":21,"MIN":1808,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":324,"PLAYER":"Danny Rose","TEAM":"Newcastle United","GP":23,"GS":20,"MIN":1759,"G":0,"ASST":0,"SHOTS":1,"SOG":0}
+{"Rank":325,"PLAYER":"Oliver Skipp","TEAM":"Tottenham Hotspur","GP":7,"GS":1,"MIN":75,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":326,"PLAYER":"Davinson S\u00e1nchez Mina","TEAM":"Tottenham Hotspur","GP":29,"GS":27,"MIN":2431,"G":0,"ASST":0,"SHOTS":7,"SOG":3}
+{"Rank":327,"PLAYER":"Kyle Walker-Peters","TEAM":"Southampton","GP":13,"GS":10,"MIN":946,"G":0,"ASST":0,"SHOTS":1,"SOG":0}
+{"Rank":328,"PLAYER":"Harry Winks","TEAM":"Tottenham Hotspur","GP":31,"GS":26,"MIN":2228,"G":0,"ASST":0,"SHOTS":10,"SOG":2}
+{"Rank":329,"PLAYER":"Willy Boly","TEAM":"Wolverhampton Wanderers","GP":22,"GS":22,"MIN":1979,"G":0,"ASST":1,"SHOTS":3,"SOG":3}
+{"Rank":330,"PLAYER":"Ainsley Maitland-Niles","TEAM":"Arsenal","GP":20,"GS":15,"MIN":1383,"G":0,"ASST":2,"SHOTS":3,"SOG":1}
+{"Rank":331,"PLAYER":"Dani Ceballos","TEAM":"Arsenal","GP":24,"GS":18,"MIN":1699,"G":0,"ASST":2,"SHOTS":8,"SOG":3}
+{"Rank":332,"PLAYER":"Matt\u00e9o Guendouzi Oli\u00e9","TEAM":"Arsenal","GP":24,"GS":19,"MIN":1748,"G":0,"ASST":1,"SHOTS":6,"SOG":5}
+{"Rank":333,"PLAYER":"Bernd Leno","TEAM":"Arsenal","GP":30,"GS":30,"MIN":2650,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":334,"PLAYER":"Emiliano Mart\u00ednez","TEAM":"Arsenal","GP":9,"GS":8,"MIN":770,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":335,"PLAYER":"Marc Albrighton","TEAM":"Leicester City","GP":20,"GS":9,"MIN":864,"G":0,"ASST":3,"SHOTS":7,"SOG":2}
+{"Rank":336,"PLAYER":"Ryan Bennett","TEAM":"Leicester City","GP":16,"GS":10,"MIN":936,"G":0,"ASST":0,"SHOTS":1,"SOG":0}
+{"Rank":337,"PLAYER":"Conor Coady","TEAM":"Wolverhampton Wanderers","GP":38,"GS":38,"MIN":3420,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":338,"PLAYER":"James Justin","TEAM":"Leicester City","GP":13,"GS":11,"MIN":1010,"G":0,"ASST":1,"SHOTS":6,"SOG":0}
+{"Rank":339,"PLAYER":"Morgan Gibbs-White","TEAM":"Wolverhampton Wanderers","GP":7,"GS":1,"MIN":126,"G":0,"ASST":0,"SHOTS":2,"SOG":0}
+{"Rank":340,"PLAYER":"Wes Morgan","TEAM":"Leicester City","GP":11,"GS":4,"MIN":430,"G":0,"ASST":0,"SHOTS":3,"SOG":2}
+{"Rank":341,"PLAYER":"John Ruddy","TEAM":"Wolverhampton Wanderers","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":342,"PLAYER":"Kasper Schmeichel","TEAM":"Leicester City","GP":38,"GS":38,"MIN":3420,"G":0,"ASST":0,"SHOTS":1,"SOG":0}
+{"Rank":343,"PLAYER":"R\u00faben Gon\u00e7alo Silva Nascimento Vinagre","TEAM":"Wolverhampton Wanderers","GP":16,"GS":6,"MIN":646,"G":0,"ASST":0,"SHOTS":4,"SOG":0}
+{"Rank":344,"PLAYER":"Danny Ward","TEAM":"Leicester City","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":345,"PLAYER":"Rui Pedro dos Santos Patr\u00edcio","TEAM":"Wolverhampton Wanderers","GP":38,"GS":38,"MIN":3420,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":346,"PLAYER":"Karl Darlow","TEAM":"Newcastle United","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":347,"PLAYER":"Martin D\u00fabravka","TEAM":"Newcastle United","GP":38,"GS":38,"MIN":3420,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":348,"PLAYER":"Paul Dummett","TEAM":"Newcastle United","GP":16,"GS":14,"MIN":1228,"G":0,"ASST":0,"SHOTS":2,"SOG":2}
+{"Rank":349,"PLAYER":"Emil Krafth","TEAM":"Newcastle United","GP":17,"GS":11,"MIN":1019,"G":0,"ASST":1,"SHOTS":3,"SOG":0}
+{"Rank":350,"PLAYER":"Javier Manquillo","TEAM":"Newcastle United","GP":21,"GS":18,"MIN":1599,"G":0,"ASST":1,"SHOTS":0,"SOG":0}
+{"Rank":351,"PLAYER":"Yoshinori Muto","TEAM":"Newcastle United","GP":8,"GS":2,"MIN":207,"G":0,"ASST":0,"SHOTS":1,"SOG":0}
+{"Rank":352,"PLAYER":"Kurt Happy Zouma","TEAM":"Chelsea","GP":28,"GS":25,"MIN":2343,"G":0,"ASST":0,"SHOTS":14,"SOG":5}
+{"Rank":353,"PLAYER":"Kepa Arrizabalaga Revuelta","TEAM":"Chelsea","GP":33,"GS":33,"MIN":2970,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":354,"PLAYER":"Willy Caballero","TEAM":"Chelsea","GP":5,"GS":5,"MIN":450,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":355,"PLAYER":"Andreas Christensen","TEAM":"Chelsea","GP":21,"GS":21,"MIN":1752,"G":0,"ASST":0,"SHOTS":6,"SOG":2}
+{"Rank":356,"PLAYER":"Robert Kenedy Nunes do Nascimento","TEAM":"Chelsea","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":357,"PLAYER":"Emerson Palmieri dos Santos","TEAM":"Chelsea","GP":15,"GS":13,"MIN":1025,"G":0,"ASST":0,"SHOTS":9,"SOG":7}
+{"Rank":358,"PLAYER":"Juan Mata","TEAM":"Manchester United","GP":19,"GS":8,"MIN":753,"G":0,"ASST":2,"SHOTS":8,"SOG":2}
+{"Rank":359,"PLAYER":"Nemanja Matic","TEAM":"Manchester United","GP":21,"GS":18,"MIN":1583,"G":0,"ASST":2,"SHOTS":5,"SOG":2}
+{"Rank":360,"PLAYER":"Sergio Romero","TEAM":"Manchester United","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":361,"PLAYER":"Luke Shaw","TEAM":"Manchester United","GP":24,"GS":20,"MIN":1734,"G":0,"ASST":0,"SHOTS":7,"SOG":5}
+{"Rank":362,"PLAYER":"Axel Tuanzebe","TEAM":"Manchester United","GP":5,"GS":2,"MIN":187,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":363,"PLAYER":"Aaron Wan-Bissaka","TEAM":"Manchester United","GP":35,"GS":34,"MIN":3072,"G":0,"ASST":4,"SHOTS":5,"SOG":1}
+{"Rank":364,"PLAYER":"David de Gea Quintana","TEAM":"Manchester United","GP":38,"GS":38,"MIN":3420,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":365,"PLAYER":"Phil Bardsley","TEAM":"Burnley","GP":21,"GS":21,"MIN":1890,"G":0,"ASST":1,"SHOTS":7,"SOG":4}
+{"Rank":366,"PLAYER":"Jack Cork","TEAM":"Burnley","GP":30,"GS":30,"MIN":2616,"G":0,"ASST":0,"SHOTS":10,"SOG":6}
+{"Rank":367,"PLAYER":"Ben Gibson","TEAM":"Burnley","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":368,"PLAYER":"Kevin Long","TEAM":"Burnley","GP":8,"GS":6,"MIN":562,"G":0,"ASST":0,"SHOTS":1,"SOG":0}
+{"Rank":369,"PLAYER":"Matthew Lowton","TEAM":"Burnley","GP":17,"GS":17,"MIN":1530,"G":0,"ASST":1,"SHOTS":1,"SOG":0}
+{"Rank":370,"PLAYER":"Nick Pope","TEAM":"Burnley","GP":38,"GS":38,"MIN":3420,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":371,"PLAYER":"Etienne Capoue","TEAM":"Watford","GP":30,"GS":30,"MIN":2632,"G":0,"ASST":3,"SHOTS":13,"SOG":1}
+{"Rank":372,"PLAYER":"Craig Cathcart","TEAM":"Watford","GP":29,"GS":28,"MIN":2490,"G":0,"ASST":0,"SHOTS":1,"SOG":1}
+{"Rank":373,"PLAYER":"Francisco Femen\u00eda Far","TEAM":"Watford","GP":28,"GS":26,"MIN":2241,"G":0,"ASST":0,"SHOTS":4,"SOG":1}
+{"Rank":374,"PLAYER":"Ben Foster","TEAM":"Watford","GP":38,"GS":38,"MIN":3420,"G":0,"ASST":0,"SHOTS":1,"SOG":1}
+{"Rank":375,"PLAYER":"Jos\u00e9 Holebas","TEAM":"Watford","GP":14,"GS":11,"MIN":1024,"G":0,"ASST":0,"SHOTS":5,"SOG":3}
+{"Rank":376,"PLAYER":"Daryl Janmaat","TEAM":"Watford","GP":8,"GS":7,"MIN":608,"G":0,"ASST":1,"SHOTS":2,"SOG":0}
+{"Rank":377,"PLAYER":"Christian Kabasele","TEAM":"Watford","GP":27,"GS":26,"MIN":2252,"G":0,"ASST":2,"SHOTS":4,"SOG":1}
+{"Rank":378,"PLAYER":"Isaac Success Ajayi","TEAM":"Watford","GP":5,"GS":0,"MIN":65,"G":0,"ASST":0,"SHOTS":1,"SOG":1}
+{"Rank":379,"PLAYER":"Heurelho da Silva Gomes","TEAM":"Watford","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":380,"PLAYER":"Sead Kola\u0161inac","TEAM":"Arsenal","GP":26,"GS":19,"MIN":1699,"G":0,"ASST":2,"SHOTS":3,"SOG":0}
+{"Rank":381,"PLAYER":"Charlie Taylor","TEAM":"Burnley","GP":24,"GS":22,"MIN":1946,"G":0,"ASST":1,"SHOTS":1,"SOG":0}
+{"Rank":382,"PLAYER":"Arthur Masuaku","TEAM":"West Ham United","GP":17,"GS":10,"MIN":932,"G":0,"ASST":1,"SHOTS":5,"SOG":2}
+{"Rank":383,"PLAYER":"Kevin Danso","TEAM":"Southampton","GP":6,"GS":3,"MIN":276,"G":0,"ASST":1,"SHOTS":1,"SOG":0}
+{"Rank":384,"PLAYER":"Fraser Forster","TEAM":"Southampton","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":385,"PLAYER":"Andy Lonergan","TEAM":"Liverpool","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":386,"PLAYER":"Albian Ajeti","TEAM":"West Ham United","GP":9,"GS":0,"MIN":132,"G":0,"ASST":0,"SHOTS":1,"SOG":0}
+{"Rank":387,"PLAYER":"Domingos Quina","TEAM":"Watford","GP":4,"GS":0,"MIN":18,"G":0,"ASST":0,"SHOTS":1,"SOG":1}
+{"Rank":388,"PLAYER":"Keinan Davis","TEAM":"Aston Villa","GP":18,"GS":4,"MIN":538,"G":0,"ASST":0,"SHOTS":15,"SOG":5}
+{"Rank":389,"PLAYER":"Jack Stacey","TEAM":"Bournemouth","GP":19,"GS":17,"MIN":1541,"G":0,"ASST":2,"SHOTS":5,"SOG":2}
+{"Rank":390,"PLAYER":"Fernando Luiz Rosa","TEAM":"Manchester City","GP":30,"GS":26,"MIN":2399,"G":0,"ASST":1,"SHOTS":13,"SOG":2}
+{"Rank":391,"PLAYER":"Ben Davies","TEAM":"Tottenham Hotspur","GP":18,"GS":16,"MIN":1431,"G":0,"ASST":0,"SHOTS":3,"SOG":1}
+{"Rank":392,"PLAYER":"Christian Fuchs","TEAM":"Leicester City","GP":11,"GS":8,"MIN":769,"G":0,"ASST":0,"SHOTS":4,"SOG":1}
+{"Rank":393,"PLAYER":"Fr\u00e9d\u00e9ric Guilbert","TEAM":"Aston Villa","GP":25,"GS":22,"MIN":2041,"G":0,"ASST":2,"SHOTS":6,"SOG":3}
+{"Rank":394,"PLAYER":"Djibril Sidib\u00e9","TEAM":"Everton","GP":25,"GS":18,"MIN":1820,"G":0,"ASST":4,"SHOTS":7,"SOG":3}
+{"Rank":395,"PLAYER":"Maarten Stekelenburg","TEAM":"Everton","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":396,"PLAYER":"Timm Klose","TEAM":"Norwich City","GP":7,"GS":7,"MIN":585,"G":0,"ASST":0,"SHOTS":1,"SOG":0}
+{"Rank":397,"PLAYER":"Nampalys Mendy","TEAM":"Leicester City","GP":7,"GS":4,"MIN":291,"G":0,"ASST":0,"SHOTS":1,"SOG":1}
+{"Rank":398,"PLAYER":"Nathaniel Chalobah","TEAM":"Watford","GP":22,"GS":10,"MIN":926,"G":0,"ASST":1,"SHOTS":6,"SOG":0}
+{"Rank":399,"PLAYER":"Caoimhin Kelleher","TEAM":"Liverpool","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":400,"PLAYER":"Christian Atsu","TEAM":"Newcastle United","GP":19,"GS":6,"MIN":741,"G":0,"ASST":3,"SHOTS":4,"SOG":1}
+{"Rank":401,"PLAYER":"Tahith Chong","TEAM":"Manchester United","GP":3,"GS":0,"MIN":34,"G":0,"ASST":0,"SHOTS":1,"SOG":0}
+{"Rank":402,"PLAYER":"Marcos Rojo","TEAM":"Manchester United","GP":3,"GS":1,"MIN":121,"G":0,"ASST":0,"SHOTS":1,"SOG":0}
+{"Rank":403,"PLAYER":"Daniel N'Lundulu","TEAM":"Southampton","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":404,"PLAYER":"Billy Gilmour","TEAM":"Chelsea","GP":6,"GS":2,"MIN":192,"G":0,"ASST":0,"SHOTS":1,"SOG":0}
+{"Rank":405,"PLAYER":"Christoph Zimmermann","TEAM":"Norwich City","GP":17,"GS":16,"MIN":1431,"G":0,"ASST":1,"SHOTS":5,"SOG":1}
+{"Rank":406,"PLAYER":"Mamadou Sakho","TEAM":"Crystal Palace","GP":14,"GS":11,"MIN":931,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":407,"PLAYER":"Daniel Drinkwater","TEAM":"Aston Villa","GP":5,"GS":5,"MIN":322,"G":0,"ASST":0,"SHOTS":2,"SOG":0}
+{"Rank":408,"PLAYER":"Fabian Delph","TEAM":"Everton","GP":16,"GS":13,"MIN":1190,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":409,"PLAYER":"Phil Jones","TEAM":"Manchester United","GP":2,"GS":2,"MIN":135,"G":0,"ASST":0,"SHOTS":2,"SOG":1}
+{"Rank":410,"PLAYER":"Frederico Rodrigues de Paula Santos","TEAM":"Manchester United","GP":29,"GS":23,"MIN":2159,"G":0,"ASST":0,"SHOTS":30,"SOG":10}
+{"Rank":411,"PLAYER":"Jairo Riedewald","TEAM":"Crystal Palace","GP":17,"GS":7,"MIN":764,"G":0,"ASST":0,"SHOTS":1,"SOG":0}
+{"Rank":412,"PLAYER":"Steven Alzate","TEAM":"Brighton and Hove Albion","GP":19,"GS":12,"MIN":1183,"G":0,"ASST":0,"SHOTS":7,"SOG":3}
+{"Rank":413,"PLAYER":"Tudor Cristian B\u0103lu\u0163\u0103","TEAM":"Brighton and Hove Albion","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":414,"PLAYER":"Maximilian Kilman","TEAM":"Wolverhampton Wanderers","GP":3,"GS":2,"MIN":184,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":415,"PLAYER":"Philip Heise","TEAM":"Norwich City","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":416,"PLAYER":"Adam Idah","TEAM":"Norwich City","GP":12,"GS":1,"MIN":221,"G":0,"ASST":0,"SHOTS":5,"SOG":2}
+{"Rank":417,"PLAYER":"Michael McGovern","TEAM":"Norwich City","GP":2,"GS":1,"MIN":158,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":418,"PLAYER":"Lewis Cook","TEAM":"Bournemouth","GP":27,"GS":14,"MIN":1345,"G":0,"ASST":0,"SHOTS":5,"SOG":2}
+{"Rank":419,"PLAYER":"Dimitri Foulquier","TEAM":"Watford","GP":3,"GS":1,"MIN":58,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":420,"PLAYER":"Adrian Mariappa","TEAM":"Watford","GP":20,"GS":15,"MIN":1510,"G":0,"ASST":0,"SHOTS":2,"SOG":0}
+{"Rank":421,"PLAYER":"Marvelous Nakamba","TEAM":"Aston Villa","GP":29,"GS":19,"MIN":1835,"G":0,"ASST":0,"SHOTS":7,"SOG":1}
+{"Rank":422,"PLAYER":"Alfie Whiteman","TEAM":"Tottenham Hotspur","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":423,"PLAYER":"Eric Garc\u00eda","TEAM":"Manchester City","GP":13,"GS":8,"MIN":790,"G":0,"ASST":0,"SHOTS":2,"SOG":1}
+{"Rank":424,"PLAYER":"Benjamin Mendy","TEAM":"Manchester City","GP":19,"GS":18,"MIN":1496,"G":0,"ASST":2,"SHOTS":3,"SOG":1}
+{"Rank":425,"PLAYER":"Kieron Freeman","TEAM":"Sheffield United","GP":2,"GS":0,"MIN":6,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":426,"PLAYER":"Andy Carroll","TEAM":"Newcastle United","GP":19,"GS":4,"MIN":618,"G":0,"ASST":4,"SHOTS":10,"SOG":3}
+{"Rank":427,"PLAYER":"Dejan Lovren","TEAM":"Liverpool","GP":10,"GS":9,"MIN":777,"G":0,"ASST":1,"SHOTS":4,"SOG":1}
+{"Rank":428,"PLAYER":"Leon Clarke","TEAM":"Sheffield United","GP":2,"GS":0,"MIN":33,"G":0,"ASST":0,"SHOTS":1,"SOG":0}
+{"Rank":429,"PLAYER":"Ezequiel Schelotto","TEAM":"Brighton and Hove Albion","GP":8,"GS":4,"MIN":362,"G":0,"ASST":0,"SHOTS":2,"SOG":1}
+{"Rank":430,"PLAYER":"Arnaut Danjuma Groeneveld","TEAM":"Bournemouth","GP":14,"GS":6,"MIN":628,"G":0,"ASST":0,"SHOTS":11,"SOG":4}
+{"Rank":431,"PLAYER":"Simon Francis","TEAM":"Bournemouth","GP":15,"GS":10,"MIN":965,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":432,"PLAYER":"Reece James","TEAM":"Chelsea","GP":24,"GS":16,"MIN":1513,"G":0,"ASST":2,"SHOTS":12,"SOG":3}
+{"Rank":433,"PLAYER":"Harry Lewis","TEAM":"Southampton","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":434,"PLAYER":"Rob Holding","TEAM":"Arsenal","GP":8,"GS":6,"MIN":581,"G":0,"ASST":0,"SHOTS":2,"SOG":0}
+{"Rank":435,"PLAYER":"Juan Foyth","TEAM":"Tottenham Hotspur","GP":4,"GS":1,"MIN":66,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":436,"PLAYER":"Akin Famewo","TEAM":"Norwich City","GP":1,"GS":0,"MIN":1,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":437,"PLAYER":"Archie Mair","TEAM":"Norwich City","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":438,"PLAYER":"Harvey Elliott","TEAM":"Liverpool","GP":2,"GS":0,"MIN":7,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":439,"PLAYER":"David Martin","TEAM":"West Ham United","GP":5,"GS":4,"MIN":435,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":440,"PLAYER":"Lloyd Kelly","TEAM":"Bournemouth","GP":8,"GS":7,"MIN":638,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":441,"PLAYER":"Jos\u00e9 Diogo Dalot Teixeira","TEAM":"Manchester United","GP":4,"GS":1,"MIN":66,"G":0,"ASST":0,"SHOTS":1,"SOG":0}
+{"Rank":442,"PLAYER":"Leighton Baines","TEAM":"Everton","GP":8,"GS":4,"MIN":401,"G":0,"ASST":0,"SHOTS":1,"SOG":0}
+{"Rank":443,"PLAYER":"Beni Baningime","TEAM":"Everton","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":444,"PLAYER":"Brandon Austin","TEAM":"Tottenham Hotspur","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":445,"PLAYER":"Stephen Henderson","TEAM":"Crystal Palace","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":446,"PLAYER":"James Garner","TEAM":"Manchester United","GP":1,"GS":0,"MIN":8,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":447,"PLAYER":"Taylor Perry","TEAM":"Wolverhampton Wanderers","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":448,"PLAYER":"Troy Parrott","TEAM":"Tottenham Hotspur","GP":2,"GS":0,"MIN":6,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":449,"PLAYER":"Kouassi Ryan Sessegnon","TEAM":"Tottenham Hotspur","GP":6,"GS":4,"MIN":342,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":450,"PLAYER":"Michel Vorm","TEAM":"Tottenham Hotspur","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":451,"PLAYER":"Anthony Gordon","TEAM":"Everton","GP":11,"GS":4,"MIN":440,"G":0,"ASST":1,"SHOTS":4,"SOG":1}
+{"Rank":452,"PLAYER":"\u00d8rjan H\u00e5skjold Nyland","TEAM":"Aston Villa","GP":7,"GS":5,"MIN":537,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":453,"PLAYER":"Scott Carson","TEAM":"Manchester City","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":454,"PLAYER":"Shkodran Mustafi","TEAM":"Arsenal","GP":15,"GS":13,"MIN":1205,"G":0,"ASST":1,"SHOTS":9,"SOG":4}
+{"Rank":455,"PLAYER":"Ayotomiwa Dele-Bashiru","TEAM":"Watford","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":456,"PLAYER":"Michael Verrips","TEAM":"Sheffield United","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":457,"PLAYER":"Lee Grant","TEAM":"Manchester United","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":458,"PLAYER":"Gavin Kilkenny","TEAM":"Bournemouth","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":459,"PLAYER":"Christian Saydee","TEAM":"Bournemouth","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":460,"PLAYER":"Luke Cundle","TEAM":"Wolverhampton Wanderers","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":461,"PLAYER":"Owen Otasowie","TEAM":"Wolverhampton Wanderers","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":462,"PLAYER":"Nathan Holland","TEAM":"West Ham United","GP":2,"GS":0,"MIN":31,"G":0,"ASST":0,"SHOTS":1,"SOG":1}
+{"Rank":463,"PLAYER":"Anthony Driscoll-Glennon","TEAM":"Burnley","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":464,"PLAYER":"Mace Goodridge","TEAM":"Burnley","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":465,"PLAYER":"Neco Williams","TEAM":"Liverpool","GP":6,"GS":3,"MIN":230,"G":0,"ASST":0,"SHOTS":2,"SOG":1}
+{"Rank":466,"PLAYER":"Tyrick Mitchell","TEAM":"Crystal Palace","GP":4,"GS":2,"MIN":193,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":467,"PLAYER":"Sam Woods","TEAM":"Crystal Palace","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":468,"PLAYER":"Brandon Pierrick","TEAM":"Crystal Palace","GP":2,"GS":0,"MIN":13,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":469,"PLAYER":"Japhet Tanganga","TEAM":"Tottenham Hotspur","GP":6,"GS":6,"MIN":526,"G":0,"ASST":0,"SHOTS":2,"SOG":1}
+{"Rank":470,"PLAYER":"Joseph Anang","TEAM":"West Ham United","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":471,"PLAYER":"William Smallbone","TEAM":"Southampton","GP":9,"GS":4,"MIN":393,"G":0,"ASST":2,"SHOTS":4,"SOG":0}
+{"Rank":472,"PLAYER":"Tariq Lamptey","TEAM":"Brighton and Hove Albion","GP":9,"GS":7,"MIN":620,"G":0,"ASST":1,"SHOTS":1,"SOG":0}
+{"Rank":473,"PLAYER":"Tyreece John-Jules","TEAM":"Arsenal","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":474,"PLAYER":"Oskar Buur","TEAM":"Wolverhampton Wanderers","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":475,"PLAYER":"Nya Kirby","TEAM":"Crystal Palace","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":476,"PLAYER":"Nathaniel Phillips","TEAM":"Liverpool","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":477,"PLAYER":"Bernardo Costa Da Rosa","TEAM":"West Ham United","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":478,"PLAYER":"Gon\u00e7alo Bento Soares Cardoso","TEAM":"West Ham United","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":479,"PLAYER":"Jake Eastwood","TEAM":"Sheffield United","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":480,"PLAYER":"Thomas Allan","TEAM":"Newcastle United","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":481,"PLAYER":"Kelland Watts","TEAM":"Newcastle United","GP":1,"GS":0,"MIN":16,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":482,"PLAYER":"Abd-Al-Ali Morakinyo Olaposi Koiki","TEAM":"Burnley","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":483,"PLAYER":"Takumi Minamino","TEAM":"Liverpool","GP":10,"GS":2,"MIN":242,"G":0,"ASST":0,"SHOTS":5,"SOG":2}
+{"Rank":484,"PLAYER":"Sam Surridge","TEAM":"Bournemouth","GP":4,"GS":0,"MIN":25,"G":0,"ASST":0,"SHOTS":2,"SOG":0}
+{"Rank":485,"PLAYER":"Mark Travers","TEAM":"Bournemouth","GP":1,"GS":1,"MIN":90,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":486,"PLAYER":"Lovre Kalini\u0107","TEAM":"Aston Villa","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":487,"PLAYER":"Indiana Vassilev","TEAM":"Aston Villa","GP":4,"GS":0,"MIN":47,"G":0,"ASST":0,"SHOTS":1,"SOG":0}
+{"Rank":488,"PLAYER":"Ignacio Pussetto","TEAM":"Watford","GP":7,"GS":0,"MIN":67,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":489,"PLAYER":"Gedson Carvalho Fernandes","TEAM":"Tottenham Hotspur","GP":7,"GS":0,"MIN":62,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":490,"PLAYER":"Darren Randolph","TEAM":"West Ham United","GP":2,"GS":2,"MIN":180,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":491,"PLAYER":"Jos\u00e9 Reina","TEAM":"Aston Villa","GP":12,"GS":12,"MIN":1080,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":492,"PLAYER":"Bruno Andr\u00e9 Cavaco Jord\u00e3o","TEAM":"Wolverhampton Wanderers","GP":1,"GS":0,"MIN":6,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":493,"PLAYER":"Lukas Rupp","TEAM":"Norwich City","GP":12,"GS":8,"MIN":699,"G":0,"ASST":0,"SHOTS":3,"SOG":2}
+{"Rank":494,"PLAYER":"Giovanni McGregor","TEAM":"Crystal Palace","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":495,"PLAYER":"Eric Bailly","TEAM":"Manchester United","GP":4,"GS":1,"MIN":148,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":496,"PLAYER":"Jo\u00e3o Pedro Junqueira de Jesus","TEAM":"Watford","GP":3,"GS":0,"MIN":22,"G":0,"ASST":0,"SHOTS":1,"SOG":0}
+{"Rank":497,"PLAYER":"Nabil Bentaleb","TEAM":"Newcastle United","GP":12,"GS":8,"MIN":749,"G":0,"ASST":0,"SHOTS":2,"SOG":0}
+{"Rank":498,"PLAYER":"Jack Robinson","TEAM":"Sheffield United","GP":6,"GS":6,"MIN":505,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":499,"PLAYER":"Josh Brownhill","TEAM":"Burnley","GP":10,"GS":9,"MIN":806,"G":0,"ASST":0,"SHOTS":4,"SOG":0}
+{"Rank":500,"PLAYER":"Odion Ighalo","TEAM":"Manchester United","GP":11,"GS":0,"MIN":92,"G":0,"ASST":0,"SHOTS":6,"SOG":4}
+{"Rank":501,"PLAYER":"Ruben Loftus-Cheek","TEAM":"Chelsea","GP":7,"GS":2,"MIN":205,"G":0,"ASST":1,"SHOTS":4,"SOG":0}
+{"Rank":502,"PLAYER":"Matty James","TEAM":"Leicester City","GP":1,"GS":0,"MIN":5,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":503,"PLAYER":"Ki-Jana Hoever","TEAM":"Liverpool","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":504,"PLAYER":"Jo\u00e3o Manuel Neves Virg\u00ednia","TEAM":"Everton","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":505,"PLAYER":"Pablo Mar\u00ed","TEAM":"Arsenal","GP":2,"GS":2,"MIN":114,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":506,"PLAYER":"Alexis Mac Allister","TEAM":"Brighton and Hove Albion","GP":9,"GS":4,"MIN":352,"G":0,"ASST":0,"SHOTS":4,"SOG":1}
+{"Rank":507,"PLAYER":"Faustino Anjorin","TEAM":"Chelsea","GP":1,"GS":0,"MIN":19,"G":0,"ASST":0,"SHOTS":1,"SOG":0}
+{"Rank":508,"PLAYER":"Armando Broja","TEAM":"Chelsea","GP":1,"GS":0,"MIN":4,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":509,"PLAYER":"Jack Rodwell","TEAM":"Sheffield United","GP":1,"GS":0,"MIN":15,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":510,"PLAYER":"Nathan Tella","TEAM":"Southampton","GP":1,"GS":0,"MIN":2,"G":0,"ASST":0,"SHOTS":1,"SOG":1}
+{"Rank":511,"PLAYER":"Josh Martin","TEAM":"Norwich City","GP":5,"GS":0,"MIN":32,"G":0,"ASST":0,"SHOTS":1,"SOG":1}
+{"Rank":512,"PLAYER":"Harvey White","TEAM":"Tottenham Hotspur","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":513,"PLAYER":"Zech Medley","TEAM":"Arsenal","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":514,"PLAYER":"Alexandre Nascimento Costa Silva","TEAM":"West Ham United","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":515,"PLAYER":"Ben Johnson","TEAM":"West Ham United","GP":3,"GS":3,"MIN":270,"G":0,"ASST":0,"SHOTS":1,"SOG":0}
+{"Rank":516,"PLAYER":"Nikola Tavares","TEAM":"Crystal Palace","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":517,"PLAYER":"Richairo Zivkovic","TEAM":"Sheffield United","GP":5,"GS":0,"MIN":107,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":518,"PLAYER":"Jarrad Branthwaite","TEAM":"Everton","GP":4,"GS":2,"MIN":299,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":519,"PLAYER":"Jimmy Dunne","TEAM":"Burnley","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":520,"PLAYER":"Lukas Jensen","TEAM":"Burnley","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":521,"PLAYER":"Bailey Peacock-Farrell","TEAM":"Burnley","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":522,"PLAYER":"Bobby Thomas","TEAM":"Burnley","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":523,"PLAYER":"Max Thompson","TEAM":"Burnley","GP":1,"GS":0,"MIN":2,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":524,"PLAYER":"Jake Vokins","TEAM":"Southampton","GP":1,"GS":1,"MIN":90,"G":0,"ASST":0,"SHOTS":1,"SOG":0}
+{"Rank":525,"PLAYER":"Matt Macey","TEAM":"Arsenal","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":526,"PLAYER":"Matthew Smith","TEAM":"Arsenal","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":527,"PLAYER":"Tommy Doyle","TEAM":"Manchester City","GP":1,"GS":0,"MIN":15,"G":0,"ASST":0,"SHOTS":1,"SOG":1}
+{"Rank":528,"PLAYER":"Taylor Harwood-Bellis","TEAM":"Manchester City","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":529,"PLAYER":"Cole Palmer","TEAM":"Manchester City","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":530,"PLAYER":"Adalberto Pe\u00f1aranda","TEAM":"Watford","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":531,"PLAYER":"Alexandre Jankewitz","TEAM":"Southampton","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":532,"PLAYER":"Jordan Thomas","TEAM":"Norwich City","GP":1,"GS":0,"MIN":1,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":533,"PLAYER":"Alfie Lewis","TEAM":"West Ham United","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":534,"PLAYER":"Leonardo Campana","TEAM":"Wolverhampton Wanderers","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":535,"PLAYER":"Josh Benson","TEAM":"Burnley","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":536,"PLAYER":"Dennis Cirkin","TEAM":"Tottenham Hotspur","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":537,"PLAYER":"Darnell Johnson","TEAM":"Leicester City","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":538,"PLAYER":"Timothy Fosu-Mensah","TEAM":"Manchester United","GP":3,"GS":2,"MIN":136,"G":0,"ASST":0,"SHOTS":1,"SOG":0}
+{"Rank":539,"PLAYER":"Conor Coventry","TEAM":"West Ham United","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
+{"Rank":540,"PLAYER":"Alex Cochrane","TEAM":"Brighton and Hove Albion","GP":0,"GS":0,"MIN":0,"G":0,"ASST":0,"SHOTS":0,"SOG":0}
