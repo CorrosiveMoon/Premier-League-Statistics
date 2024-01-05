@@ -297,4 +297,4 @@ if assist_per_game_ratio is not None:
     print(f"Assist Per Game Ratio for {player_name}: {assist_per_game_ratio:.2f}")
         
 
-client.close()
+# client.close()
