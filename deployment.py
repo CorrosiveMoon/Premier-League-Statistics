@@ -45,8 +45,21 @@ def main():
             matches = find_matches_by_team(team_name)
             st.subheader(f"Matches for {team_name}:")
             for match in matches:
-                st.write(f"Match ID: {match['_id']}, Home Team: {match['homeTeam']['name']}, Away Team: {match['awayTeam']['name']}")
+                home_team = match['homeTeam']
+                away_team = match['awayTeam']
 
+                if 'crest' in home_team and 'crest' in away_team:
+                    col1, col2 = st.columns(2)
+                    with col1:
+                        st.image(home_team['crest'], caption=home_team['name'], width=100)
+                        st.write(f"Home Team: {home_team['name']}")
+                    with col2:
+                        st.image(away_team['crest'], caption=away_team['name'], width=100)
+                        st.write(f"Away Team: {away_team['name']}")
+            
+                st.write(f"Match ID: {match['_id']}, Home Team: {home_team['name']}, Away Team: {away_team['name']}")
+    
+    
     elif query_options == "Find Player Statistics":
         player_name = st.sidebar.text_input("Enter Player Name")
         if st.sidebar.button("Find Statistics"):
