@@ -28,20 +28,20 @@ def find_player_stats(player_name):
     stats = db.player_stats.find({"PLAYER": player_name})
     return list(stats)
 
-# Function to find matches within a specific date range
-def find_matches_by_date_range(start_date, end_date):
-    start_date = datetime.strptime(start_date, "%Y-%m-%d")
-    end_date = datetime.strptime(end_date, "%Y-%m-%d")
+# # Function to find matches within a specific date range
+# def find_matches_by_date_range(start_date, end_date):
+#     start_date = datetime.strptime(start_date, "%Y-%m-%d")
+#     end_date = datetime.strptime(end_date, "%Y-%m-%d")
     
-    matches = db.league_data.find(
-        {
-            "$and": [
-                {"season.startDate": {"$lte": end_date}},
-                {"season.endDate": {"$gte": start_date}},
-            ]
-        }
-    )
-    return list(matches)
+#     matches = db.league_data.find(
+#         {
+#             "$and": [
+#                 {"season.startDate": {"$lte": end_date}},
+#                 {"season.endDate": {"$gte": start_date}},
+#             ]
+#         }
+#     )
+#     return list(matches)
 
 def find_matches_and_referee_by_team(team_name):
     matches = db.league_data.find(
@@ -209,61 +209,61 @@ def calculate_assist_per_game_ratio(player_name):
 
 
 # Example usage
-    # Find all matches played by a specific team
-# team_name = "Manchester City FC"
-# team_matches = find_matches_by_team(team_name)
-# print("Matches played by Manchester City FC:")
-# for match in team_matches:
-#     print(f"Match ID: {match['_id']}, Home Team: {match['homeTeam']['name']}, Away Team: {match['awayTeam']['name']}")
+#     Find all matches played by a specific team
+team_name = "Manchester City FC"
+team_matches = find_matches_by_team(team_name)
+print("Matches played by Manchester City FC:")
+for match in team_matches:
+    print(f"Match ID: {match['_id']}, Home Team: {match['homeTeam']['name']}, Away Team: {match['awayTeam']['name']}")
 
-#     # Find player statistics for a specific player
-#     player_name = "Harry Kane"
-#     player_stats = find_player_stats(player_name)
-#     if player_stats:
-#         print("Player statistics for Harry Kane:")
-#         for stat in player_stats:
-#             print(f"Rank: {stat['Rank']}, Team: {stat['TEAM']}, Goals: {stat['G']}, Assists: {stat['ASST']}")
+    # Find player statistics for a specific player
+    player_name = "Harry Kane"
+    player_stats = find_player_stats(player_name)
+    if player_stats:
+        print("Player statistics for Harry Kane:")
+        for stat in player_stats:
+            print(f"Rank: {stat['Rank']}, Team: {stat['TEAM']}, Goals: {stat['G']}, Assists: {stat['ASST']}")
 
-#     # Find matches within a date range
-#     start_date = "2022-08-05"
-#     end_date = "2023-05-28"
-#     date_range_matches = find_matches_by_date_range(start_date, end_date)
-#     print(f"Matches within date range ({start_date} - {end_date}):")
-#     for match in date_range_matches:
-#         print(f"Match ID: {match['_id']}, Home Team: {match['homeTeam']['name']}, Away Team: {match['awayTeam']['name']}")
+    # Find matches within a date range
+    # start_date = "2022-08-05"
+    # end_date = "2023-05-28"
+    # date_range_matches = find_matches_by_date_range(start_date, end_date)
+    # print(f"Matches within date range ({start_date} - {end_date}):")
+    # for match in date_range_matches:
+    #     print(f"Match ID: {match['_id']}, Home Team: {match['homeTeam']['name']}, Away Team: {match['awayTeam']['name']}")
 
     # Example usage to get matches and referees for Manchester City FC
-# team_matches_with_referee = find_matches_and_referee_by_team(team_name)
-# print(f"Matches played by {team_name}:")
-# for match_info in team_matches_with_referee:
-#     print(f"Match ID: {match_info['Match ID']}, Home Team: {match_info['Home Team']}, Away Team: {match_info['Away Team']}, Referee: {match_info['Referee']}")
+team_matches_with_referee = find_matches_and_referee_by_team(team_name)
+print(f"Matches played by {team_name}:")
+for match_info in team_matches_with_referee:
+    print(f"Match ID: {match_info['Match ID']}, Home Team: {match_info['Home Team']}, Away Team: {match_info['Away Team']}, Referee: {match_info['Referee']}")
 
     
-# team_matches_scores_and_referee = find_matches_scores_and_referee_by_team(team_name)
-# print(f"Matches played by {team_name}:")
-# for match_info in team_matches_scores_and_referee:
-#     print(f"Match ID: {match_info['Match ID']}, Home Team: {match_info['Home Team']}, Away Team: {match_info['Away Team']}, Score: {match_info['Score']}, Referee: {match_info['Referee']}")
+team_matches_scores_and_referee = find_matches_scores_and_referee_by_team(team_name)
+print(f"Matches played by {team_name}:")
+for match_info in team_matches_scores_and_referee:
+    print(f"Match ID: {match_info['Match ID']}, Home Team: {match_info['Home Team']}, Away Team: {match_info['Away Team']}, Score: {match_info['Score']}, Referee: {match_info['Referee']}")
 
 
-    # team_matches_with_dates = find_all_matches_by_team_with_dates(team_name)
-    # print("\nAll Matches played by Manchester City FC with dates:")
-    # for match_info in team_matches_with_dates:
-    #     print(f"Match ID: {match_info['Match ID']}, Home Team: {match_info['Home Team']}, Away Team: {match_info['Away Team']}, Match Date: {match_info['Match Date']}")
+    team_matches_with_dates = find_all_matches_by_team_with_dates(team_name)
+    print("\nAll Matches played by Manchester City FC with dates:")
+    for match_info in team_matches_with_dates:
+        print(f"Match ID: {match_info['Match ID']}, Home Team: {match_info['Home Team']}, Away Team: {match_info['Away Team']}, Match Date: {match_info['Match Date']}")
         
-    # referee_name = "Anthony Taylor"  # Replace with the desired referee's name
-    # referee_matches = find_matches_by_referee(referee_name)
-    # print(f"Matches officiated by {referee_name}:")
-    # for match in referee_matches:
-    #     print(f"Match ID: {match['Match ID']}, Home Team: {match['Home Team']}, Away Team: {match['Away Team']}, Match Date: {match['Match Date']}")
+    referee_name = "Anthony Taylor"  # Replace with the desired referee's name
+    referee_matches = find_matches_by_referee(referee_name)
+    print(f"Matches officiated by {referee_name}:")
+    for match in referee_matches:
+        print(f"Match ID: {match['Match ID']}, Home Team: {match['Home Team']}, Away Team: {match['Away Team']}, Match Date: {match['Match Date']}")
         
-# min_score = 3
-# max_score = 5
-# score_range_matches = find_matches_by_score_range(min_score, max_score)
-# print(f"Matches with scores between {min_score} and {max_score} goals:")
-# for match in score_range_matches:
-#     print(f"Match ID: {match['Match ID']}, Home Team: {match['Home Team']}, Away Team: {match['Away Team']}, "
-#           f"Home Score: {match['Home Score']}, Away Score: {match['Away Score']}, "
-#           f"Match Date: {match['Match Date']}")
+min_score = 3
+max_score = 5
+score_range_matches = find_matches_by_score_range(min_score, max_score)
+print(f"Matches with scores between {min_score} and {max_score} goals:")
+for match in score_range_matches:
+    print(f"Match ID: {match['Match ID']}, Home Team: {match['Home Team']}, Away Team: {match['Away Team']}, "
+          f"Home Score: {match['Home Score']}, Away Score: {match['Away Score']}, "
+          f"Match Date: {match['Match Date']}")
 
 num_top_scorers = 1
 top_scorers = find_top_goal_scorers(num_top_scorers)
