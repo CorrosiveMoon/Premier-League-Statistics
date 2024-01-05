@@ -20,6 +20,9 @@ def main():
     st.title("Premier League Statistics")
     st.sidebar.title("Navigation")
 
+    st.sidebar.image('premierleague.png')
+
+
     query_options = st.sidebar.selectbox("Select a query option", [
         "Find all matches by team",
         "Find Player Statistics",
@@ -84,12 +87,14 @@ def main():
             for match in matches:
                 st.write(f"Match ID: {match['Match ID']}, Home Team: {match['Home Team']}, Away Team: {match['Away Team']}, Match Date: {match['Match Date']}")
     
-    elif query_options == "Find Matches by Score Range":
+
+    elif query_options == "Find all matches by score range":
         st.sidebar.header("Score Range")
         st.sidebar.write("Enter the score range (0 - 15)")
         min_score = st.sidebar.number_input("Minimum Score", min_value=0, max_value=15, value=0, step=1)
         max_score = st.sidebar.number_input("Maximum Score", min_value=0, max_value=15, value=15, step=1)
         st.sidebar.write("*Note: Maximum score value is 15")
+    
         if st.sidebar.button("Find Matches by Score Range"):
             matches = find_matches_by_score_range(min_score, max_score)
             st.subheader(f"Matches with scores between {min_score} and {max_score} goals:")
@@ -97,8 +102,42 @@ def main():
                 st.write(f"Match ID: {match['Match ID']}, Home Team: {match['Home Team']}, Away Team: {match['Away Team']}, "
                      f"Home Score: {match['Home Score']}, Away Score: {match['Away Score']}, "
                      f"Match Date: {match['Match Date']}")
-
-
+                
+    elif query_options == "Find top goal scorers":
+        num_players = st.sidebar.number_input("Enter number of players", min_value=1, max_value=100, value=10, step=1)
+        if st.sidebar.button("Find Top Goal Scorers"):
+            players = find_top_goal_scorers(num_players)
+            st.subheader(f"Top {num_players} goal scorers:")
+            for player in players:
+                st.write(f"Player: {player['Player']}, Goals: {player['Goals']}, Team: {player['Team']}")
+    
+    elif query_options == "Find top assist leaders":
+        num_players = st.sidebar.number_input("Enter number of players", min_value=1, max_value=100, value=10, step=1)
+        if st.sidebar.button("Find Top Assist Leaders"):
+            players = find_top_assist_leaders(num_players)
+            st.subheader(f"Top {num_players} assist leaders:")
+            for player in players:
+                st.write(f"Player: {player['Player']}, Assists: {player['Assists']}, Team: {player['Team']}")
+    
+    elif query_options == "Find player with most minutes":
+        if st.sidebar.button("Find Player with Most Minutes"):
+            player = find_player_with_most_minutes()
+            st.subheader(f"Player with most minutes:")
+            st.write(f"Player: {player['Player']}, Minutes: {player['Minutes Played']}, Team: {player['Team']}")
+    
+    elif query_options == "Calculate goal per game ratio":
+        player_name = st.sidebar.text_input("Enter player name")
+        if st.sidebar.button("Calculate Goal Per Game Ratio"):
+            ratio = calculate_goal_per_game_ratio(player_name)
+            st.subheader(f"Goal per game ratio for {player_name}:")
+            st.write(f"Ratio: {ratio}")
+    
+    elif query_options == "Calculate assist per game ratio":
+        player_name = st.sidebar.text_input("Enter player name")
+        if st.sidebar.button("Calculate Assist Per Game Ratio"):
+            ratio = calculate_assist_per_game_ratio(player_name)
+            st.subheader(f"Assist per game ratio for {player_name}:")
+            st.write(f"Ratio: {ratio}")
     
 
 
